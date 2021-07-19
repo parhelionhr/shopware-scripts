@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.5
 // @updateURL    https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @downloadURL  https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -1005,8 +1005,13 @@ var sifre = [];
             name: "Bestseller Džemfix 2:1 3+1 gratis",
         },
         {
-            id: "dc68584e5a9c4e9c84e1eb25a050fc9d",
-            code: "170006856",
+            id: "702dbbbcc25e4cc3b61df1914aad9c02",
+            code: "170000541",
+            name: "Kalup za tortu 26cm sa staklenim dnom",
+        },
+        {
+            id: "dd4dfbd773d6447aa36557a32996795f",
+            code: "170000557",
             name: "Limun šećer x3",
         },
         {
@@ -1053,6 +1058,36 @@ var sifre = [];
             id: "1ada1bbaa2e74acb9f3e0ae6f8acc9d5",
             code: "170006722",
             name: "Vanilin šećer",
+        },
+        {
+            id: "40f1c37ecff040e6a09d0aa4ab433466",
+            code: "170000562",
+            name: "Mjerni lončić 500ml",
+        },
+        {
+            id: "1c098d8a59914f3793cbcc629c4bfc29",
+            code: "170000553",
+            name: "Podizač torte/ Šablona za ukrašavanje Ø36",
+        },
+        {
+            id: "33420582d0b047d1b3771019c9b4171e",
+            code: "170000559",
+            name: "Svijećice s držačima 12,5cm, Retro plava",
+        },
+        {
+            id: "6a133cff16f048dba54234a7b0e68759",
+            code: "170000558",
+            name: "Svijećice s držačima 12,5cm, Retro roza",
+        },
+        {
+            id: "79549542e06243b295d64c5d2143d821",
+            code: "170000560",
+            name: "Svijećice s držačima 12,5cm, Retro zelena",
+        },
+        {
+            id: "3e53c7086f76478dbae38fbe0d19ca47",
+            code: "170000554",
+            name: "Vaga kuhinjska analogna",
         },
         {
             id: "21f213b38aa34d5f904a53397a5827aa",
