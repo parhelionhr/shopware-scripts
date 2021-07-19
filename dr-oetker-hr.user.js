@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @updateURL    https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @downloadURL  https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -1005,14 +1005,14 @@ var sifre = [];
             name: "Bestseller Džemfix 2:1 3+1 gratis",
         },
         {
-            id: "702dbbbcc25e4cc3b61df1914aad9c02",
-            code: "170000541",
-            name: "Kalup za tortu 26cm sa staklenim dnom",
+            id: "dc68584e5a9c4e9c84e1eb25a050fc9d",
+            code: "170006856",
+            name: "Limun šećer x3",
         },
         {
             id: "dd4dfbd773d6447aa36557a32996795f",
             code: "170000557",
-            name: "Limun šećer x3",
+            name: "Kalup za tortu 26cm sa staklenim dnom",
         },
         {
             id: "9cb0e6c91d894e62b9dfa02a5e62e479",
