@@ -311,6 +311,13 @@ var sifre = [];
                 var prod = getProductById(id);
                 prod.quantity = quantity;
                 orderitems.push(prod);
+            } else if (productName == "Promo plišani privjesak morske životinje") {
+                // warnings.push(productName);
+                var id = "d40dee25170444bca74214851208d9a5";
+                var quantity = 1;
+                var prod = getProductById(id);
+                prod.quantity = quantity;
+                orderitems.push(prod);
             } else if (productName == "Knjiga recepata Tajna je u imenu 2") {
                 // warnings.push(productName);
                 var id = "942529b8052c480fbdbb3812f045390a";
@@ -793,6 +800,11 @@ var sifre = [];
             id: "490d75939c804ce9850d3145c98c9eca",
             code: "170000536",
             name: "Hvataljka za vruće staklenke",
+        },
+        {
+            id: "d40dee25170444bca74214851208d9a5",
+            code: "170000550",
+            name: "Promo plišani privjesak morske životinje",
         },
         {
             id: "a35ed0e24b0441ef878a741d9ab3567e",
