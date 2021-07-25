@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    http://tampermonkey.net/
-// @version      1.9
+// @version      2.0
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -51,26 +51,29 @@ var sifre = [];
             $(".sw-order-user-card__metadata-price:first").text()
         );
         info.email = $(bl).find(".sw-order-inline-field").first().text();
-        info.fullName = $(bl)
-            .find(".sw-address__body .sw-address__full-name.sw-address__line")
+        
+        var shipping_block = $('.sw-address__body').last();
+        info.fullName = $(shipping_block)
+            .find(".sw-address__full-name.sw-address__line")
             .first()
             .text();
-        info.address = $(bl)
-            .find(".sw-address__body .sw-address__street.sw-address__line")
+        info.address = $(shipping_block)
+            .find(".sw-address__street.sw-address__line")
             .first()
             .text();
-        info.zipcode = $(bl)
+        info.zipcode = $(shipping_block)
             .find(
-                ".sw-address__body .sw-address__location.sw-address__line span"
+                ".sw-address__location.sw-address__line span"
             )
             .first()
             .text();
-        info.city = $(bl)
+        info.city = $(shipping_block)
             .find(
-                ".sw-address__body .sw-address__location.sw-address__line span"
+                ".sw-address__location.sw-address__line span"
             )
             .last()
             .text();
+        
         info.phone = $(bl)
             .find(".sw-order-inline-field.sw-order-inline-field__truncateable")
             .first()
