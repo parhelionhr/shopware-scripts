@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    http://tampermonkey.net/
-// @version      1.8
-// @updateURL    https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
-// @downloadURL  https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
+// @version      1.9
+// @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
+// @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://oetker-shop.hr/admin*
