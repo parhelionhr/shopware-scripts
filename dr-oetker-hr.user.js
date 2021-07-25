@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    http://tampermonkey.net/
-// @version      1.7
+// @version      1.8
 // @updateURL    https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @downloadURL  https://raw.githubusercontent.com/parhelionhr/shopware-scripts/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -835,6 +835,11 @@ var sifre = [];
             id: "e155d57df8f94c5e8e79d797a5421834",
             code: "176303653",
             name: "Posna zobena kaša šumsko voće",
+        },
+        {
+            id: "9c2390c1555445fbaf5cbeccd425b401",
+            code: "170000561",
+            name: "Srebrni podložak za tortu 28cm, 8 kom",
         },
         {
             id: "dc829e60fbec443291f0bad85a1fbdf7",
