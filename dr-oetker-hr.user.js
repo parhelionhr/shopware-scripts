@@ -957,7 +957,17 @@ var sifre = [];
         {
             id: "1d8016d19eac428498ae30541655e0e2",
             code: "170014691",
-            name: " Kakao za kolače ",
+            name: "Kakao za kolače",
+        },
+        {
+            id: "32b882d4b03b4820890224bbc411914f",
+            code: "170000555",
+            name: "Obruč za tortu 15 do 30 cm, Classic",
+        },
+        {
+            id: "e3a13ed866ea4643b8c4b0602a1916ad",
+            code: "170000565",
+            name: "Četvrtasti podesivi obruč za kolače",
         },
         {
             id: "9a18ee9c51764c2da5c8f129a234a9b1",
