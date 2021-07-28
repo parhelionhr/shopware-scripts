@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Oetker Order List
-// @namespace    http://tampermonkey.net/
-// @version      2.2
+// @namespace    Parhelion
+// @version      2.3
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
-// @author       You
+// @author       Tihomir
 // @match        https://oetker-shop.hr/admin*
 // @icon         https://www.google.com/s2/favicons?domain=oetker-shop.hr
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js
