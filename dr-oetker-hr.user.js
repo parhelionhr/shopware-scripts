@@ -1170,6 +1170,81 @@ var sifre = [];
             name: "Američke palačinke s proteinima",
         },
         {
+            id: "97885bbab8b24e7cb7dd036565dcea97",
+            code: "139201001",
+            name: "Professional Prašak za pecivo Backin 1kg",
+        },
+        {
+            id: "b47d283fd2174a8fbead51f57c567352",
+            code: "139201201",
+            name: "Professional Vanilin šećer 1kg",
+        },
+        {
+            id: "522a5bbe12c34f28823b358b7db10ca4",
+            code: "139201804",
+            name: "Professional  Gustin 2,5 kg",
+        },
+        {
+            id: "8a02bd6c1ce64e328724fd8e4f41c064",
+            code: "139202005",
+            name: "Professional Puding vanilija",
+        },
+        {
+            id: "8d2be321a171415988b086258a7a12ec",
+            code: "139250074",
+            name: "Professional Čokoladne mrvice",
+        },
+        {
+            id: "ee2bf27d44a04aeea37037776edfd8a4",
+            code: "139250083",
+            name: "Professional Puding čokolada",
+        },
+        {
+            id: "79abd47f86b943d4812f0d4aa8a3e06e",
+            code: "139252308",
+            name: "Professional Šarene mrvice",
+        },
+        {
+            id: "edb972cf590141969fd2c92375333945",
+            code: "139252330",
+            name: "Professional Lješnjak krokant",
+        },
+        {
+            id: "161cc9bc89de4d6eb80fd8833de86830",
+            code: "139252332",
+            name: "Professional Hrskave perle",
+        },
+        {
+            id: "68b944d7015f4f55ae105ac1621b123b",
+            code: "144242600",
+            name: "Professional Kakao listići",
+        },
+        {
+            id: "f6c489d071244f6999699290ecc67e88",
+            code: "154213109",
+            name: "Professional Desertni preljev čokolada 765 ml",
+        },
+        {
+            id: "7df9d457beaf42248276c854be8e981e",
+            code: "154213110",
+            name: "Professional Desertni preljev jagoda 770 ml",
+        },
+        {
+            id: "4c367a99e41d445fb74f1a9731508195",
+            code: "170000551",
+            name: "Slastičarski nož, Professional",
+        },
+        {
+            id: "3d2e13e2882a492e89c8ab49840e64b9",
+            code: "170000563",
+            name: "Zdjela za miješanje 24cm, Professional",
+        },
+        {
+            id: "641fecb9023647c4a4d49156305976a6",
+            code: "170000564",
+            name: "Podložak za tortu 32cm, Professional",
+        },
+        {
             id: "0e84ce8a7dc447808b3247b9fca3a1c0",
             code: "170006446",
             name: "Hrskavi muesli s medom",
