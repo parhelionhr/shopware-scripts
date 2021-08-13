@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.3
+// @version      2.4
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -321,6 +321,7 @@ var sifre = [];
                 var prod = getProductById(id);
                 prod.quantity = quantity;
                 orderitems.push(prod);
+               /*
             } else if (productName == "Knjiga recepata Tajna je u imenu 2") {
                 // warnings.push(productName);
                 var id = "942529b8052c480fbdbb3812f045390a";
@@ -328,6 +329,7 @@ var sifre = [];
                 var prod = getProductById(id);
                 prod.quantity = quantity;
                 orderitems.push(prod);
+                */
                 // regular products
             } else if (ahref && ahref !== "#") {
                 console.log(ahref);
