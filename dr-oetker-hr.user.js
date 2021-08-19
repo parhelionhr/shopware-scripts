@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.4
+// @version      2.5
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -51,8 +51,8 @@ var sifre = [];
             $(".sw-order-user-card__metadata-price:first").text()
         );
         info.email = $(bl).find(".sw-order-inline-field").first().text();
-        
-        var shipping_block = $('.sw-address__body').last();
+
+        var shipping_block = $(".sw-address__body").last();
         info.fullName = $(shipping_block)
             .find(".sw-address__full-name.sw-address__line")
             .first()
@@ -62,18 +62,14 @@ var sifre = [];
             .first()
             .text();
         info.zipcode = $(shipping_block)
-            .find(
-                ".sw-address__location.sw-address__line span"
-            )
+            .find(".sw-address__location.sw-address__line span")
             .first()
             .text();
         info.city = $(shipping_block)
-            .find(
-                ".sw-address__location.sw-address__line span"
-            )
+            .find(".sw-address__location.sw-address__line span")
             .last()
             .text();
-        
+
         info.phone = $(bl)
             .find(".sw-order-inline-field.sw-order-inline-field__truncateable")
             .first()
@@ -314,14 +310,16 @@ var sifre = [];
                 var prod = getProductById(id);
                 prod.quantity = quantity;
                 orderitems.push(prod);
-            } else if (productName == "Promo plišani privjesak morske životinje") {
+            } else if (
+                productName == "Promo plišani privjesak morske životinje"
+            ) {
                 // warnings.push(productName);
                 var id = "d40dee25170444bca74214851208d9a5";
                 var quantity = 1;
                 var prod = getProductById(id);
                 prod.quantity = quantity;
                 orderitems.push(prod);
-               /*
+                /*
             } else if (productName == "Knjiga recepata Tajna je u imenu 2") {
                 // warnings.push(productName);
                 var id = "942529b8052c480fbdbb3812f045390a";
@@ -726,6 +724,28 @@ var sifre = [];
             {
                 code: "101143500",
                 quantity: 1,
+            },
+        ],
+        170000548: [
+            {
+                code: "170000514",
+                quantity: 1,
+            },
+            {
+                code: "170005525",
+                quantity: 1,
+            },
+            {
+                code: "170004575",
+                quantity: 1,
+            },
+            {
+                code: "170002122",
+                quantity: 1,
+            },
+            {
+                code: "170021236",
+                quantity: 2,
             },
         ],
     };
