@@ -902,6 +902,86 @@ var sifre = [];
             name: "Tiramisu",
         },
         {
+            id: "ff9b584d48c64f8bb3610a10b468bb90",
+            code: "170000610",
+            name: "Kalup za kruh ovalni",
+        },
+        {
+            id: "6c96ea1dedfa4fb695281864404e2599",
+            code: "170000566",
+            name: "Vaga kuhinjska digitalna 10kg, Professional",
+        },
+        {
+            id: "9959168988e6439f88fa71faaf0112c8",
+            code: "Vaga kuh. digitalna, stakl. podložak 5kg",
+            name: "170000567",
+        },
+        {
+            id: "d4305df137e744b5856f7d8d81bd028c",
+            code: "170000578",
+            name: "Kalup za kolače u obliku srca 6/1",
+        },
+        {
+            id: "a914332fc29842e59355eb5dacd8bd27",
+            code: "170000568",
+            name: "Kalup za puding 0,6l",
+        },
+        {
+            id: "9f359ebbe56c47a2af24e64c355984d4",
+            code: "170000569",
+            name: "Šprica za ukrašavanje kolača",
+        },
+        {
+            id: "9e324df1257e45059dfe84962d7375dc",
+            code: "170000571",
+            name: "Papirnate košarice za muffine CVIJEĆE, 50 kom",
+        },
+        {
+            id: "3b3cd59f965a4888889c44dc5138229d",
+            code: "170000570",
+            name: "Papirnate košarice za muffine SREĆA, 50 kom",
+        },
+        {
+            id: "4ecbae17082240cdb9e61f753a524b81",
+            code: "170000576",
+            name: "Posipač za brašno 350g",
+        },
+        {
+            id: "b968c179f49348fd8e3e9aaede84d0bb",
+            code: "170000574",
+            name: "Kist od mikrovlakana 35m, Professional",
+        },
+        {
+            id: "230ea34d42e14584976b2c1c7e2d2f2c",
+            code: "170000573",
+            name: "Poklon kutija za 6 muffina plava, 2kom",
+        },
+        {
+            id: "d97e0e1020684cf4b41b4df45e802dd1",
+            code: "170000580",
+            name: "Poklon kutija za 6 muffina roza, 2kom",
+        },
+        {
+            id: "9a4fa26c2147401fa2add1e1d32156cc",
+            code: "170000572",
+            name: 'Papirnati kalup za pečenje "Mini" 10 kom',
+        },
+        {
+            id: "c867652df09b4cbaafa426fb88699b39",
+            code: "170000577",
+            name: "Dječji set za kekse 11 dijelova",
+        },
+        {
+            id: "5739f9257b21464fa5c7d02f804b13fc",
+            code: "170000579",
+            name: "Podmetač pamučni 20x20cm, Retro roza",
+        },
+        {
+            id: "973c34f57b254990b01474c7637d6e42",
+            code: "170000575",
+            name: "Valjak za tijesto, Professional",
+        },
+        {
             id: "859a8f0991014e5092a6807e23bc28fd",
             code: "170022942",
             name: "Parfe krema vanilija",
