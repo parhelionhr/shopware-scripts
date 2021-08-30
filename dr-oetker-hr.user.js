@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.7
+// @version      2.8
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -1458,7 +1458,7 @@ var sifre = [];
         {
             id: "237d54dcd8ef453d8a0ed6fadc7649a3",
             code: "170006402",
-            name: "Choco lava muffin",
+            name: "Choco lava muffins",
         },
         {
             id: "84951bef74ea40bb8e1c36471723a9a1",
