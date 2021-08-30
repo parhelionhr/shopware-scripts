@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.6
+// @version      2.7
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -746,6 +746,60 @@ var sifre = [];
             {
                 code: "170021236",
                 quantity: 2,
+            },
+        ],
+        170000585: [
+            {
+                code: "170006842",
+                quantity: 5,
+            },
+        ],
+        170000583: [
+            {
+                code: "170006555",
+                quantity: 1,
+            },
+            {
+                code: "170003780",
+                quantity: 1,
+            },
+            {
+                code: "170000570",
+                quantity: 1,
+            },
+            {
+                code: "170005556",
+                quantity: 1,
+            },
+            {
+                code: "170025516",
+                quantity: 1,
+            },
+            {
+                code: "170000556",
+                quantity: 1,
+            },
+        ],
+        170000582: [
+            {
+                code: "170000515",
+                quantity: 1,
+            },
+            {
+                code: "170003781",
+                quantity: 1,
+            },
+            {
+                code: "170016535",
+                quantity: 1,
+            },
+            {
+                code: "170015129",
+                quantity: 1,
+            },
+            {
+                code: "170015517",
+                quantity: 1,
             },
         ],
     };
@@ -2280,6 +2334,21 @@ var sifre = [];
             id: "fa74af0c16d742209ecaecf130382b4b",
             code: "SW10207",
             name: "Retro rukavica za hvatanje",
+        },
+        {
+            id: "4620597635844e7c918d299456e2c44a",
+            code: "170000585",
+            name: "Bestseller Super kaša 4+1 gratis",
+        },
+        {
+            id: "70d83aa2bfdd4f32a4308bb58643ce2b",
+            code: "170000583",
+            name: "Set Cupcake Party",
+        },
+        {
+            id: "106ed26891fd482aa206866e4d8230b5",
+            code: "170000582",
+            name: "Set Muffin Friends",
         },
     ];
 })();
