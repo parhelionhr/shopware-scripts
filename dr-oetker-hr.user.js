@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.8
+// @version      2.9
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -15,10 +15,11 @@ var sifre = [];
 (function () {
     "use strict";
     console.log("Tampermonkey script started");
-    var ctrl = 0;
     var prevOrderName = "X";
     var orderName = "";
     var warnings = [];
+    /*
+    var ctrl = 0;
     var intervalId = setInterval(function () {
         var orderText = $(".smart-bar__header h2").first().text();
         orderName = orderText.replace("Order ", "");
@@ -27,6 +28,7 @@ var sifre = [];
             prevOrderName = orderName;
         }
     }, 2000);
+    */
 
     function deduplicate(arr) {
         var obj = {};
@@ -2349,6 +2351,11 @@ var sifre = [];
             id: "106ed26891fd482aa206866e4d8230b5",
             code: "170000582",
             name: "Set Muffin Friends",
+        },
+        {
+            id: "943638322bd945ed805d75819edf4abd",
+            code: "170000548",
+            name: "Set Voćni kolači",
         },
     ];
 })();
