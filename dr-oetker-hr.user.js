@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      2.9
+// @version      3.0
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -18,7 +18,6 @@ var sifre = [];
     var prevOrderName = "X";
     var orderName = "";
     var warnings = [];
-    /*
     var ctrl = 0;
     var intervalId = setInterval(function () {
         var orderText = $(".smart-bar__header h2").first().text();
@@ -28,7 +27,6 @@ var sifre = [];
             prevOrderName = orderName;
         }
     }, 2000);
-    */
 
     function deduplicate(arr) {
         var obj = {};
