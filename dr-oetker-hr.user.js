@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.1
+// @version      3.2
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -800,6 +800,12 @@ var sifre = [];
             {
                 code: "170015517",
                 quantity: 1,
+            },
+        ],
+        170000586: [
+            {
+                code: "170006446",
+                quantity: 4,
             },
         ],
     };
