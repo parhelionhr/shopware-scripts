@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.0
+// @version      3.1
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -2349,6 +2349,11 @@ var sifre = [];
             id: "106ed26891fd482aa206866e4d8230b5",
             code: "170000582",
             name: "Set Muffin Friends",
+        },
+        {
+            id: "b0c1f0c9aa574ca09d47f662f240eaf3",
+            code: "170000586",
+            name: "Vitalis Crunchy Honeys 3+1 gratis",
         },
         {
             id: "943638322bd945ed805d75819edf4abd",
