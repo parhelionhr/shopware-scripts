@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.3
+// @version      3.33
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -819,9 +819,9 @@ var sifre = [];
     var products = [
         {
             id: "88f3e9416b624d62b390bcdca78c871b",
-            code:"170000587",
-            name: "Super Vitalis bez dodanog šećera  3+1 gratis"
-        }
+            code: "170000587",
+            name: "Super Vitalis bez dodanog šećera  3+1 gratis",
+        },
         {
             id: "f9299dc63d804beab715d0b0209d4632",
             code: "170000525",
