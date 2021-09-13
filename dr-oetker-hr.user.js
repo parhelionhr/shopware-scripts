@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.4
+// @version      3.5
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -292,6 +292,16 @@ var sifre = [];
             if (productName == "Digitalni timer") {
                 // warnings.push(productName);
                 var id = "f9299dc63d804beab715d0b0209d4632";
+                var quantity = 1;
+                var prod = getProductById(id);
+                prod.quantity = quantity;
+                orderitems.push(prod);
+            } else if (
+                productName ==
+                "Posudica za spremanje muffina Candy- promotivni poklon"
+            ) {
+                // warnings.push(productName);
+                var id = "ce2bf3f3e20c4675846c16f2ac73042c";
                 var quantity = 1;
                 var prod = getProductById(id);
                 prod.quantity = quantity;
@@ -1501,6 +1511,11 @@ var sifre = [];
             id: "6d42837ea4cc44e487027952f21c414b",
             code: "170006400",
             name: "Gluten free muffins",
+        },
+        {
+            id: "ce2bf3f3e20c4675846c16f2ac73042c",
+            code: "170000589",
+            name: "Posudica za spremanje muffina Candy- promotivni poklon",
         },
         {
             id: "76746cf95d4144bab4bf8af32fc1ac0e",
