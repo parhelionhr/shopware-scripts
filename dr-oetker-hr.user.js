@@ -147,6 +147,14 @@ var sifre = [];
         el.appendChild(document.createElement("br"));
         */
 
+        var divRb = document.createElement("div");
+        divRb.style = "float:left;width:35px";
+        for (var rb = 1; rb <= orderitems.length; rb++) {
+            divRb.appendChild(document.createTextNode(rb + "."));
+            divRb.appendChild(document.createElement("br"));
+        }
+        el.appendChild(divRb);
+
         var div1 = document.createElement("div");
         div1.style = "float:left;width:200px";
         orderitems.map(function (item) {
