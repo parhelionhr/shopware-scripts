@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.5
+// @version      3.7
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -247,7 +247,7 @@ var sifre = [];
             return item.id === productId;
         });
         if (product.length == 1) {
-            return product[0];
+            return Object.assign({}, product[0]);
         }
         alert("Product id " + productId + " not found");
     }
@@ -258,9 +258,32 @@ var sifre = [];
             return item.code === productCode;
         });
         if (product.length == 1) {
-            return product[0];
+            return Object.assign({}, product[0]);
         }
         alert("Product code " + productCode + " not found");
+    }
+
+    function transformSetsToString(code) {
+        var output = [];
+        Object.keys(sets).forEach((bundleCode) => {
+            var bundleItems = sets[bundleCode];
+            output.push("\n" + bundleCode);
+            var out = [];
+            bundleItems.forEach((item) => {
+                var item_id = null;
+                var quantity = item.quantity;
+                var product = null;
+                if (item.id) {
+                    item_id = item.id;
+                } else {
+                    product = getProductByCode(item.code);
+                    item_id = product.id;
+                }
+                out.push(quantity + ":" + item_id);
+            });
+            output.push(out.join(","));
+        });
+        alert(output.join("\n"));
     }
 
     function main() {
