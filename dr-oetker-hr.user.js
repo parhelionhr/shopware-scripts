@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.7
+// @version      3.8
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -2414,6 +2414,21 @@ var sifre = [];
             id: "943638322bd945ed805d75819edf4abd",
             code: "170000548",
             name: "Set Voćni kolači",
+        },
+        {
+            id: "f87d522cf07049aea5a0bdb93341d2c9",
+            code: "101443200",
+            name: "High Protein Puding Griz",
+        },
+        {
+            id: "dfa3c9b846fd49c58dc64658684c2af8",
+            code: "101443100",
+            name: "High Protein Puding Čokolada",
+        },
+        {
+            id: "73f2c36777e44a07945835284aec6ad8",
+            code: "101443000",
+            name: "High Protein Puding Vanilija",
         },
     ];
 })();
