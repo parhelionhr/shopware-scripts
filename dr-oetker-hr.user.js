@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      3.9
+// @version      4.0
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -2407,6 +2407,21 @@ var sifre = [];
             id: "70d83aa2bfdd4f32a4308bb58643ce2b",
             code: "170000583",
             name: "Set Cupcake Party",
+        },
+        {
+            id: "58fbb957699f4e25961e7b44be1fb3c0",
+            code: "170007018",
+            name: "Professional  Želatina bijela mljevena 750 g",
+        },
+        {
+            id: "4eaa4b5152c44510a48e2bbff7ee1b2e",
+            code: "139201805",
+            name: "Professional Želatina u listićima",
+        },
+        {
+            id: "d7b9da08652843aabb9c49ddabfc297b",
+            code: "139201605",
+            name: "Professional Preljev za torte prozirni",
         },
         {
             id: "106ed26891fd482aa206866e4d8230b5",
