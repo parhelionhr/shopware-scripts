@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      4.0
+// @version      4.1
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -2417,6 +2417,11 @@ var sifre = [];
             id: "4eaa4b5152c44510a48e2bbff7ee1b2e",
             code: "139201805",
             name: "Professional Želatina u listićima",
+        },
+        {
+            id: "40e5ad91a2c04b95a795b643de62ce58",
+            code: "170000593",
+            name: "Kalup za puding 600 ml",
         },
         {
             id: "d7b9da08652843aabb9c49ddabfc297b",
