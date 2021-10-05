@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Oetker Order List
 // @namespace    Parhelion
-// @version      4.1
+// @version      4.2
 // @updateURL    https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @downloadURL  https://github.com/parhelionhr/shopware-scripts/raw/main/dr-oetker-hr.user.js
 // @description  try to take over the world!
@@ -1812,6 +1812,11 @@ var sifre = [];
             id: "f8b7dcc2b19541e593bf3febcd42b26e",
             code: "170004575",
             name: "Bourbon vanilin šećer x3",
+        },
+        {
+            id: "a914332fc29842e59355eb5dacd8bd27",
+            code: "170000568",
+            name: "Kalup za puding 0,6l - poklon",
         },
         {
             id: "13c68c0344a54f3da9241c4ebb58e3c2",
