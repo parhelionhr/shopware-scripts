@@ -1,140 +1,5 @@
 var products = [
     {
-        "id": "4ecbae17082240cdb9e61f753a524b81",
-        "name": "Posipač za brašno 350g",
-        "code": "170000576"
-    },
-    {
-        "id": "c867652df09b4cbaafa426fb88699b39",
-        "name": "Dječji set za kekse 11 dijelova",
-        "code": "170000577"
-    },
-    {
-        "id": "943638322bd945ed805d75819edf4abd",
-        "name": "Set \"Voćni kolači\"",
-        "code": "170000548"
-    },
-    {
-        "id": "d4305df137e744b5856f7d8d81bd028c",
-        "name": "Kalup za kolače u obliku srca 6\/1",
-        "code": "170000578"
-    },
-    {
-        "id": "5739f9257b21464fa5c7d02f804b13fc",
-        "name": "Podmetač pamučni 20x20cm, Retro roza",
-        "code": "170000579"
-    },
-    {
-        "id": "a914332fc29842e59355eb5dacd8bd27",
-        "name": "Kalup za puding 0,6l - poklon",
-        "code": "170000568"
-    },
-    {
-        "id": "ff9b584d48c64f8bb3610a10b468bb90",
-        "name": "Kalup za kruh ovalni",
-        "code": "170000610"
-    },
-    {
-        "id": "d97e0e1020684cf4b41b4df45e802dd1",
-        "name": "Poklon kutija za 6 muffina 22x16cm, 2kom, roza",
-        "code": "170000580"
-    },
-    {
-        "id": "106ed26891fd482aa206866e4d8230b5",
-        "name": "Set Muffin Friends",
-        "code": "170000582"
-    },
-    {
-        "id": "70d83aa2bfdd4f32a4308bb58643ce2b",
-        "name": "Set Cupcake Party",
-        "code": "170000583"
-    },
-    {
-        "id": "4620597635844e7c918d299456e2c44a",
-        "name": "Bestseller Super kaša 4+1 gratis",
-        "code": "170000585"
-    },
-    {
-        "id": "b0c1f0c9aa574ca09d47f662f240eaf3",
-        "name": "Vitalis Crunchy Honeys 3+1 gratis",
-        "code": "170000586"
-    },
-    {
-        "id": "88f3e9416b624d62b390bcdca78c871b",
-        "name": "Super Vitalis bez dodanog šećera  3+1 gratis",
-        "code": "170000587"
-    },
-    {
-        "id": "ce2bf3f3e20c4675846c16f2ac73042c",
-        "name": "Posudica za spremanje muffina Candy- promotivni poklon",
-        "code": "170000589"
-    },
-    {
-        "id": "73f2c36777e44a07945835284aec6ad8",
-        "name": "High Protein Puding Vanilija",
-        "code": "101443000"
-    },
-    {
-        "id": "dfa3c9b846fd49c58dc64658684c2af8",
-        "name": "High Protein Puding Čokolada",
-        "code": "101443100"
-    },
-    {
-        "id": "f87d522cf07049aea5a0bdb93341d2c9",
-        "name": "High Protein Puding Griz",
-        "code": "101443200"
-    },
-    {
-        "id": "d7b9da08652843aabb9c49ddabfc297b",
-        "name": "Professional Preljev za torte prozirni",
-        "code": "139201605"
-    },
-    {
-        "id": "4eaa4b5152c44510a48e2bbff7ee1b2e",
-        "name": "Professional Želatina u listićima",
-        "code": "139201805"
-    },
-    {
-        "id": "58fbb957699f4e25961e7b44be1fb3c0",
-        "name": "Professional  Želatina bijela mljevena 750 g",
-        "code": "170007018"
-    },
-    {
-        "id": "40e5ad91a2c04b95a795b643de62ce58",
-        "name": "Kalup za puding 600 ml",
-        "code": "170000593"
-    },
-    {
-        "id": "b23a6c327226446a800a9e9bc42e62e4",
-        "name": "Set za ukrašavanje Magnolija",
-        "code": "170000599"
-    },
-    {
-        "id": "58b8f7fda32a40898618356dea324f2b",
-        "name": "Set za ukrašavanje Ruža",
-        "code": "170000600"
-    },
-    {
-        "id": "0f00054278fd4e30ad9f8d31cf0ff947",
-        "name": "Set za ukrašavanje Pahuljica",
-        "code": "170000611"
-    },
-    {
-        "id": "75d5eac6637f4b73a463cf6759925acd",
-        "name": "Drveni valjak za tijesto",
-        "code": "170000612"
-    },
-    {
-        "id": "a472ea575f7149e6b823165b517326dc",
-        "name": "Pladanj za kolače rotirajući",
-        "code": "170000613"
-    },
-    {
-        "id": "6c2bfe6ed0cc452e806d3ce2bb571ced",
-        "name": "Kalup za kuglof, klasični 22 cm",
-        "code": "170000614"
-    },
-    {
         "id": "18dee41bfd664c77b994cff325f4fb72",
         "name": "Prašak za pecivo",
         "code": "170001190"
@@ -1046,7 +911,7 @@ var products = [
     },
     {
         "id": "560692fdc4914b1996b93ce439ec7a4e",
-        "name": "Kolač s višnjama",
+        "name": "Čokino kolač s višnjama",
         "code": "101854100"
     },
     {
@@ -1412,7 +1277,7 @@ var products = [
     {
         "id": "ab5742645b874f47a62452921f596ef6",
         "name": "Sladki prah s vanilinom",
-        "code": "SW10276"
+        "code": "170017030"
     },
     {
         "id": "b47d283fd2174a8fbead51f57c567352",
@@ -1633,5 +1498,340 @@ var products = [
         "id": "973c34f57b254990b01474c7637d6e42",
         "name": "Valjak za tijesto, Professional",
         "code": "170000575"
+    },
+    {
+        "id": "4ecbae17082240cdb9e61f753a524b81",
+        "name": "Posipač za brašno 350g",
+        "code": "170000576"
+    },
+    {
+        "id": "c867652df09b4cbaafa426fb88699b39",
+        "name": "Dječji set za kekse 11 dijelova",
+        "code": "170000577"
+    },
+    {
+        "id": "943638322bd945ed805d75819edf4abd",
+        "name": "Set \"Voćni kolači\"",
+        "code": "170000548"
+    },
+    {
+        "id": "d4305df137e744b5856f7d8d81bd028c",
+        "name": "Kalup za kolače u obliku srca 6\/1",
+        "code": "170000578"
+    },
+    {
+        "id": "5739f9257b21464fa5c7d02f804b13fc",
+        "name": "Podmetač pamučni 20x20cm, Retro roza",
+        "code": "170000579"
+    },
+    {
+        "id": "a914332fc29842e59355eb5dacd8bd27",
+        "name": "Kalup za puding 0,6l - poklon",
+        "code": "170000568"
+    },
+    {
+        "id": "ff9b584d48c64f8bb3610a10b468bb90",
+        "name": "Kalup za kruh ovalni",
+        "code": "170000610"
+    },
+    {
+        "id": "d97e0e1020684cf4b41b4df45e802dd1",
+        "name": "Poklon kutija za 6 muffina 22x16cm, 2kom, roza",
+        "code": "170000580"
+    },
+    {
+        "id": "106ed26891fd482aa206866e4d8230b5",
+        "name": "Set Muffin Friends",
+        "code": "170000582"
+    },
+    {
+        "id": "70d83aa2bfdd4f32a4308bb58643ce2b",
+        "name": "Set Cupcake Party",
+        "code": "170000583"
+    },
+    {
+        "id": "4620597635844e7c918d299456e2c44a",
+        "name": "Bestseller Super kaša 4+1 gratis",
+        "code": "170000585"
+    },
+    {
+        "id": "b0c1f0c9aa574ca09d47f662f240eaf3",
+        "name": "Vitalis Crunchy Honeys 3+1 gratis",
+        "code": "170000586"
+    },
+    {
+        "id": "88f3e9416b624d62b390bcdca78c871b",
+        "name": "Super Vitalis bez dodanog šećera  3+1 gratis",
+        "code": "170000587"
+    },
+    {
+        "id": "ce2bf3f3e20c4675846c16f2ac73042c",
+        "name": "Posudica za spremanje muffina Candy- promotivni poklon",
+        "code": "170000589"
+    },
+    {
+        "id": "73f2c36777e44a07945835284aec6ad8",
+        "name": "High Protein Puding Vanilija",
+        "code": "101443000"
+    },
+    {
+        "id": "dfa3c9b846fd49c58dc64658684c2af8",
+        "name": "High Protein Puding Čokolada",
+        "code": "101443100"
+    },
+    {
+        "id": "f87d522cf07049aea5a0bdb93341d2c9",
+        "name": "High Protein Puding Griz",
+        "code": "101443200"
+    },
+    {
+        "id": "d7b9da08652843aabb9c49ddabfc297b",
+        "name": "Professional Preljev za torte prozirni",
+        "code": "139201605"
+    },
+    {
+        "id": "4eaa4b5152c44510a48e2bbff7ee1b2e",
+        "name": "Professional Želatina u listićima",
+        "code": "139201805"
+    },
+    {
+        "id": "58fbb957699f4e25961e7b44be1fb3c0",
+        "name": "Professional  Želatina bijela mljevena 750 g",
+        "code": "170007018"
+    },
+    {
+        "id": "40e5ad91a2c04b95a795b643de62ce58",
+        "name": "Kalup za puding 600 ml",
+        "code": "170000593"
+    },
+    {
+        "id": "b23a6c327226446a800a9e9bc42e62e4",
+        "name": "Set za ukrašavanje Magnolija",
+        "code": "170000599"
+    },
+    {
+        "id": "58b8f7fda32a40898618356dea324f2b",
+        "name": "Set za ukrašavanje Ruža",
+        "code": "170000600"
+    },
+    {
+        "id": "0f00054278fd4e30ad9f8d31cf0ff947",
+        "name": "Set za ukrašavanje Pahuljica",
+        "code": "170000611"
+    },
+    {
+        "id": "75d5eac6637f4b73a463cf6759925acd",
+        "name": "Drveni valjak za tijesto",
+        "code": "170000612"
+    },
+    {
+        "id": "a472ea575f7149e6b823165b517326dc",
+        "name": "Pladanj za kolače rotirajući",
+        "code": "170000613"
+    },
+    {
+        "id": "6c2bfe6ed0cc452e806d3ce2bb571ced",
+        "name": "Kalup za kuglof, klasični 22 cm",
+        "code": "170000614"
+    },
+    {
+        "id": "4499cdaf2761447c83b88dd3a17bed4f",
+        "name": "Pastelno šećerno pismo, set",
+        "code": "101529800"
+    },
+    {
+        "id": "ccc4c5f64b0f423e8cf04393f73f6970",
+        "name": "Glazura za kolače u lončiću, tamna",
+        "code": "101540800"
+    },
+    {
+        "id": "8971e0b0e9e44824b8af239020eb7f1d",
+        "name": "Glazura za kolače u lončiću, svijetla",
+        "code": "101540900"
+    },
+    {
+        "id": "6f618d3c95cf4c7d938e68e37503dd97",
+        "name": "Kuglof",
+        "code": "101851800"
+    },
+    {
+        "id": "d873b418318e4b8d8539989587bb9929",
+        "name": "Mramorni kolač",
+        "code": "101852100"
+    },
+    {
+        "id": "46127d1730b443edbe06abd85beac54c",
+        "name": "Čokoladni oblak",
+        "code": "101911000"
+    },
+    {
+        "id": "386eda6713de4c82aea248c25f1cfc2c",
+        "name": "Čokino oblak",
+        "code": "101911300"
+    },
+    {
+        "id": "bc280fb7c7ab4fcaa40702312122b494",
+        "name": "Bijelo šećerno pismo u tubici",
+        "code": "101531100"
+    },
+    {
+        "id": "2c8eb291ac344c629b50aca809012c64",
+        "name": "Čokoladna abeceda i brojke",
+        "code": "101536000"
+    },
+    {
+        "id": "0bf8ab20371b4b2fbfe5c13c10332c57",
+        "name": "Glazura za kolače, tamna čokolada",
+        "code": "101541100"
+    },
+    {
+        "id": "a99b7b30f65746738260354ee759dc53",
+        "name": "Glazura za kolače, mliječna čokolada",
+        "code": "101541000"
+    },
+    {
+        "id": "5a28fd88d7624949b62c3e6d3202502f",
+        "name": "Fina marcipan masa, 200g",
+        "code": "101555000"
+    },
+    {
+        "id": "a1594428fa704ef7aad0c0cb41d38032",
+        "name": "Krupno mljeveni badem",
+        "code": "101565100"
+    },
+    {
+        "id": "e1da05ccff754c93b1959831c4b13e3c",
+        "name": "Dekor mix zvjezdice",
+        "code": "SW10364"
+    },
+    {
+        "id": "d631002d8dbe4ba8967fcac13b3aa03c",
+        "name": "Knjiga recepata Čokoladni kolači - poklon",
+        "code": "170000634"
+    },
+    {
+        "id": "45186712db4c4d3f87c6da703ba059a9",
+        "name": "Sweet Zero Muffins vanilija",
+        "code": "170007025"
+    },
+    {
+        "id": "3ed12c1399d94b8eb9dfe9b4f5db5841",
+        "name": "Sweet Zero Puding s okusom vanilije",
+        "code": "170007024"
+    },
+    {
+        "id": "1df5e8321da6495fbf29b252458e42a8",
+        "name": "Sweet Zero Puding kakao",
+        "code": "170007029"
+    },
+    {
+        "id": "76d6c8b4f10048a081123ffd0709d0d1",
+        "name": "Modlice za kekse Božić, 8 motiva",
+        "code": "170000619"
+    },
+    {
+        "id": "0d5630da92da467fbb205e9cf5ebbde1",
+        "name": "Modlice za kekse u obliku čovječuljka, 3 vel.",
+        "code": "170000620"
+    },
+    {
+        "id": "6efb1e2e00754a6c959c93bd1ef63efd",
+        "name": "Modlice za kekse, zvijezda, 6 vel.",
+        "code": "170000621"
+    },
+    {
+        "id": "494f22b76ec449e9a7850d83f66fbec2",
+        "name": "Modlice za kekse u obliku jelke, 3 vel.",
+        "code": "170000622"
+    },
+    {
+        "id": "e1af21499b2045268207cee50036181f",
+        "name": "Modlice za linzere, 5 kom",
+        "code": "170000623"
+    },
+    {
+        "id": "c56a59dd0c02492882bede0a7e09eda7",
+        "name": "Pečat za kekse, 3 otiska",
+        "code": "170000624"
+    },
+    {
+        "id": "2212d5eee0354a68bb3b8776bff06cc3",
+        "name": "Dizajnerski kalup za kuglof \"Backkunst\" Ø24 ",
+        "code": "170000625"
+    },
+    {
+        "id": "655357a3fbba4fd9a87e4fe21997e9a8",
+        "name": "Dizajnerski kalup za kuglof \"Backkunst\" Ø22",
+        "code": "170000626"
+    },
+    {
+        "id": "316ea862c97149e2a32ceae0b861c06a",
+        "name": "Posuda za topljenje čokolade, nehrđajući čelik",
+        "code": "170000627"
+    },
+    {
+        "id": "c413ebf4735646919feb83b3025ffb2b",
+        "name": "Kist za kolače, drvena ručka 20,5 cm",
+        "code": "170000633"
+    },
+    {
+        "id": "d12d6687ec75450ca5c7c926e94eb0b3",
+        "name": "Preša za kekse s 10 nastavaka",
+        "code": "170000629"
+    },
+    {
+        "id": "abdee942013e4185ad304bba49162b64",
+        "name": "Posipač za brašno 350g, pocinčani",
+        "code": "170000581"
+    },
+    {
+        "id": "65a4c73d67d942f9a2ce18ba861f7ede",
+        "name": "Kist za kolače, drvena ručka 20,5 cm",
+        "code": "170000628"
+    },
+    {
+        "id": "70be576ae15a4e38b54f80f98aa9a4a6",
+        "name": "Vintage doza Nostalgija",
+        "code": "170000590"
+    },
+    {
+        "id": "672a65983b7d4d5a9f63b86c425cd55b",
+        "name": "Kutija za kekse Nostalgija",
+        "code": "170000591"
+    },
+    {
+        "id": "8b885edfb26b44739110ec659e2d2e11",
+        "name": "Kutija za kekse Čipka",
+        "code": "170000592"
+    },
+    {
+        "id": "433e4109916e4c2b8e4318306cc2f7da",
+        "name": "Kalendar s receptima 2022.",
+        "code": "170000595"
+    },
+    {
+        "id": "bf6e7378fcf04363938bbfaa4f06e111",
+        "name": "Sweet Zero \"Slatka sam\" pamučna vrećica",
+        "code": "170000615"
+    },
+    {
+        "id": "d399ac79f0e44bec83452b5cb382fa4d",
+        "name": "\"Love my cake\" pamučna vrećica",
+        "code": "170000616"
+    },
+    {
+        "id": "c4cb61756bc44db9af55a67ab8c4be7a",
+        "name": "\"Make someone happy\" pamučna vrećica",
+        "code": "170000617"
+    },
+    {
+        "id": "96839ecd59da4757b123a938158ab062",
+        "name": "\"Homemade\" pamučna vrećica, natur",
+        "code": "170000618"
+    },
+    {
+        "id": "a08b51533cf24d1b8d9577ae156bf939",
+        "name": "Set Kalendar 2022. 3+1 gratis",
+        "code": "170000596"
     }
 ];
