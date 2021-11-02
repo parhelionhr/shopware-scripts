@@ -1756,12 +1756,12 @@ var products = [
     },
     {
         "id": "2212d5eee0354a68bb3b8776bff06cc3",
-        "name": "Dizajnerski kalup za kuglof \"Backkunst\" Ø24 ",
+        "name": "Dizajnerski kalup za kuglof \"Floral\" Ø24 ",
         "code": "170000625"
     },
     {
         "id": "655357a3fbba4fd9a87e4fe21997e9a8",
-        "name": "Dizajnerski kalup za kuglof \"Backkunst\" Ø22",
+        "name": "Dizajnerski kalup za kuglof \"Twist\" Ø22",
         "code": "170000626"
     },
     {
