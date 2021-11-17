@@ -502,5 +502,67 @@ var bundles = {
             "name": "Kalendar s receptima 2022.",
             "quantity": 4
         }
+    ],
+    "170000598": [
+        {
+            "id": "70be576ae15a4e38b54f80f98aa9a4a6",
+            "code": "170000590",
+            "name": "Vintage doza Nostalgija",
+            "quantity": 1
+        },
+        {
+            "id": "18dee41bfd664c77b994cff325f4fb72",
+            "code": "170001190",
+            "name": "Prašak za pecivo",
+            "quantity": 4
+        },
+        {
+            "id": "1ada1bbaa2e74acb9f3e0ae6f8acc9d5",
+            "code": "170006722",
+            "name": "Vanilin šećer",
+            "quantity": 6
+        },
+        {
+            "id": "dc68584e5a9c4e9c84e1eb25a050fc9d",
+            "code": "170006856",
+            "name": "Limun šećer x3",
+            "quantity": 1
+        },
+        {
+            "id": "003485792b284d40bac4c897766d329b",
+            "code": "170006858",
+            "name": "Rum šećer x3",
+            "quantity": 1
+        },
+        {
+            "id": "f334c51fe38b482f83c7381e80e75b81",
+            "code": "170011102",
+            "name": "Kvasac instant",
+            "quantity": 3
+        },
+        {
+            "id": "eee84b97603f4dbcb1fef0afa6fb701d",
+            "code": "170002122",
+            "name": "Kremfix x3",
+            "quantity": 1
+        },
+        {
+            "id": "09825f4c7ee9478abb91368d8b7acba0",
+            "code": "170006855",
+            "name": "Finesse Bourbon vanilija aroma",
+            "quantity": 1
+        },
+        {
+            "id": "55da4d29e3ee4d0c9cea590bd8ac3c17",
+            "code": "170015129",
+            "name": "Šareno pismo",
+            "quantity": 1
+        },
+        {
+            "id": "79e74cc94b7c4305bdda54fc304271ca",
+            "code": "170001232",
+            "name": "Soda bikarbona",
+            "quantity": 2
+        }
     ]
 };

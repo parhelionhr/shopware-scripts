@@ -1833,5 +1833,45 @@ var products = [
         "id": "a08b51533cf24d1b8d9577ae156bf939",
         "name": "Set Kalendar 2022. 3+1 gratis",
         "code": "170000596"
+    },
+    {
+        "id": "ca34934301254411bf74cd7f7e2d5aa0",
+        "name": "Testni bundle",
+        "code": "SW10392"
+    },
+    {
+        "id": "350283f5121e40d48aa7fcfaa781f82f",
+        "name": "Poklon vrećice Srce s vezicom, 16kom",
+        "code": "170000635"
+    },
+    {
+        "id": "f6112cdf82d048d8b07c30a646e8da84",
+        "name": "Punjena kutija \"Dodaci za kekse i kolače\"",
+        "code": "170000598"
+    },
+    {
+        "id": "1617844ff7074cbe96fb46b3ef04c74f",
+        "name": "Vintage kutija \"Božićna jelka\"",
+        "code": "170000636"
+    },
+    {
+        "id": "9b931415a5194383b92b5b7dde66b9b1",
+        "name": "Ciobar šalica plava",
+        "code": "170000637"
+    },
+    {
+        "id": "bd201a0484ca46b3aa09acc4bc74c2c1",
+        "name": "Vrećice za smrznutu robu",
+        "code": "170000638"
+    },
+    {
+        "id": "32a28040ac2f47578d7beda61334d778",
+        "name": "Posuda s mjerama DOP - gratis",
+        "code": "170000639"
+    },
+    {
+        "id": "99767e8aa6c04dafb655a3347a90d795",
+        "name": "Slasticarski tuljac DOP - gratis",
+        "code": "170000640"
     }
 ];
