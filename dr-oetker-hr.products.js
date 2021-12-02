@@ -161,7 +161,7 @@ var products = [
     },
     {
         "id": "5a36ab01cfd54e148262e3ce2ff90ac0",
-        "name": "Crni kakao",
+        "name": "Tamni kakao",
         "code": "170011516"
     },
     {
@@ -1340,26 +1340,6 @@ var products = [
         "code": "154213110"
     },
     {
-        "id": "7250aa44d62745919feb037a049ec209",
-        "name": "Testni proizvod",
-        "code": "SW10290"
-    },
-    {
-        "id": "b7bac8c15fcd4cc8a981c11f93cf4924",
-        "name": null,
-        "code": "SW10290.1"
-    },
-    {
-        "id": "d56a51ae5784413692dacc878d613087",
-        "name": null,
-        "code": "SW10290.2"
-    },
-    {
-        "id": "14b1885ec9e74b7883af42f238e5e139",
-        "name": null,
-        "code": "SW10290.3"
-    },
-    {
         "id": "afe54b5d1610416dadee41a9cb416855",
         "name": "Čaša \"to-go\" za žitarice i jogurt",
         "code": "170000552"
@@ -1696,13 +1676,8 @@ var products = [
     },
     {
         "id": "a1594428fa704ef7aad0c0cb41d38032",
-        "name": "Krupno mljeveni badem",
+        "name": "Grubo mljeveni badem",
         "code": "101565100"
-    },
-    {
-        "id": "e1da05ccff754c93b1959831c4b13e3c",
-        "name": "Dekor mix zvjezdice",
-        "code": "SW10364"
     },
     {
         "id": "d631002d8dbe4ba8967fcac13b3aa03c",
@@ -1821,7 +1796,7 @@ var products = [
     },
     {
         "id": "c4cb61756bc44db9af55a67ab8c4be7a",
-        "name": "\"Make someone happy\" pamučna vrećica",
+        "name": "\"Bake someone happy\" pamučna vrećica",
         "code": "170000617"
     },
     {
@@ -1835,19 +1810,9 @@ var products = [
         "code": "170000596"
     },
     {
-        "id": "ca34934301254411bf74cd7f7e2d5aa0",
-        "name": "Testni bundle",
-        "code": "SW10392"
-    },
-    {
         "id": "350283f5121e40d48aa7fcfaa781f82f",
         "name": "Poklon vrećice Srce s vezicom, 16kom",
         "code": "170000635"
-    },
-    {
-        "id": "f6112cdf82d048d8b07c30a646e8da84",
-        "name": "Punjena kutija \"Dodaci za kekse i kolače\"",
-        "code": "170000598"
     },
     {
         "id": "1617844ff7074cbe96fb46b3ef04c74f",
@@ -1873,5 +1838,25 @@ var products = [
         "id": "99767e8aa6c04dafb655a3347a90d795",
         "name": "Slasticarski tuljac DOP - gratis",
         "code": "170000640"
+    },
+    {
+        "id": "f6112cdf82d048d8b07c30a646e8da84",
+        "name": "Punjena kutija \"Dodaci za kekse i kolače\"",
+        "code": "170000598"
+    },
+    {
+        "id": "222d32b1d7c64f02a776441301cbb795",
+        "name": "Aroma vanilija - bočica ",
+        "code": "170006906"
+    },
+    {
+        "id": "3c0899d7d54347bfa260985fb765568d",
+        "name": "Aroma vanilija - bočica ",
+        "code": "170006907"
+    },
+    {
+        "id": "a60001bf774f4a6d9b865624fc13665e",
+        "name": "Punjena kutija \"Pod bor\"",
+        "code": "170000641"
     }
 ];

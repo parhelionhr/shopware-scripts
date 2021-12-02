@@ -359,7 +359,7 @@ var bundles = {
         {
             "id": "5a36ab01cfd54e148262e3ce2ff90ac0",
             "code": "170011516",
-            "name": "Crni kakao",
+            "name": "Tamni kakao",
             "quantity": 1
         },
         {
@@ -563,6 +563,26 @@ var bundles = {
             "code": "170001232",
             "name": "Soda bikarbona",
             "quantity": 2
+        }
+    ],
+    "170000641": [
+        {
+            "id": "1617844ff7074cbe96fb46b3ef04c74f",
+            "code": "170000636",
+            "name": "Vintage kutija \"Božićna jelka\"",
+            "quantity": 1
+        },
+        {
+            "id": "b9ab8c3ad5d242819ca7c7abd1d27ef4",
+            "code": "170004815",
+            "name": "Domaće Vanilin Kiflice",
+            "quantity": 1
+        },
+        {
+            "id": "ccec1bd78074470186415242b3779286",
+            "code": "170017032",
+            "name": "Sladki prah šećer u prahu 200g",
+            "quantity": 1
         }
     ]
 };
