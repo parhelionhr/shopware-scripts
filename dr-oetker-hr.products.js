@@ -1858,5 +1858,30 @@ var products = [
         "id": "a60001bf774f4a6d9b865624fc13665e",
         "name": "Punjena kutija \"Pod bor\"",
         "code": "170000641"
+    },
+    {
+        "id": "634d35ec6a0b4a0d8622a62d9d78eb54",
+        "name": "Kuglof set",
+        "code": "170000597"
+    },
+    {
+        "id": "e3454c903f114fa8976acd55e16ff3a7",
+        "name": "Poklon set \"Sweet Zero\"",
+        "code": "170000642"
+    },
+    {
+        "id": "c0403040eb0447a29eb9aa222b02718c",
+        "name": "Špatula zaobljena drvo\/guma 25",
+        "code": "170000648"
+    },
+    {
+        "id": "997699262f5647398bc4e0344cdd779a",
+        "name": "Rezervne vrećice za ukrašavanje, 30 kom",
+        "code": "170000649"
+    },
+    {
+        "id": "3c66bcb6f24e43d0b61476927f7e48bd",
+        "name": "Pjenjača 30x8cm",
+        "code": "170000650"
     }
 ];

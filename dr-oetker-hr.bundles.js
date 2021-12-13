@@ -584,5 +584,57 @@ var bundles = {
             "name": "Sladki prah šećer u prahu 200g",
             "quantity": 1
         }
+    ],
+    "170000597": [
+        {
+            "id": "6c2bfe6ed0cc452e806d3ce2bb571ced",
+            "code": "170000614",
+            "name": "Kalup za kuglof, klasični 22 cm",
+            "quantity": 1
+        },
+        {
+            "id": "6f618d3c95cf4c7d938e68e37503dd97",
+            "code": "101851800",
+            "name": "Kuglof",
+            "quantity": 1
+        },
+        {
+            "id": "0bf8ab20371b4b2fbfe5c13c10332c57",
+            "code": "101541100",
+            "name": "Glazura za kolače, tamna čokolada",
+            "quantity": 1
+        }
+    ],
+    "170000642": [
+        {
+            "id": "bf6e7378fcf04363938bbfaa4f06e111",
+            "code": "170000615",
+            "name": "Sweet Zero \"Slatka sam\" pamučna vrećica",
+            "quantity": 1
+        },
+        {
+            "id": "3084537a9003416198634bbf0ae5f6b2",
+            "code": "170006962",
+            "name": "Sweet Zero Vanlilin",
+            "quantity": 3
+        },
+        {
+            "id": "3ed12c1399d94b8eb9dfe9b4f5db5841",
+            "code": "170007024",
+            "name": "Sweet Zero Puding s okusom vanilije",
+            "quantity": 1
+        },
+        {
+            "id": "45186712db4c4d3f87c6da703ba059a9",
+            "code": "170007025",
+            "name": "Sweet Zero Muffins vanilija",
+            "quantity": 1
+        },
+        {
+            "id": "1df5e8321da6495fbf29b252458e42a8",
+            "code": "170007029",
+            "name": "Sweet Zero Puding kakao",
+            "quantity": 1
+        }
     ]
 };
