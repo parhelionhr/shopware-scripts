@@ -192,7 +192,7 @@ var products = [
     {
         "id": "9cbb04e1618a4fa4aa30b9b54691a194",
         "name": "Finesse naribana korica naranče",
-        "code": "170011459"
+        "code": "101143600"
     },
     {
         "id": "8724105180a24f8c9c067398779d0529",
@@ -313,11 +313,6 @@ var products = [
         "id": "7199edebae4841be81830310489d288b",
         "name": "Ukrasni cvjetići",
         "code": "170005483"
-    },
-    {
-        "id": "09f198489a10427dab6719a58f58b7a3",
-        "name": "Fondant Deka bijela",
-        "code": "101526800"
     },
     {
         "id": "bf6665bcd5ca474787c3442589b0852a",
@@ -1086,7 +1081,7 @@ var products = [
     },
     {
         "id": "dba8f7dbfc7f4384bcb6b655f558e7d4",
-        "name": "Pamučna torba \"Say Cheese Cake\"  ",
+        "name": "\"Say Cheese Cake\"  pamučna torba",
         "code": "170000509"
     },
     {
@@ -1616,7 +1611,7 @@ var products = [
     },
     {
         "id": "4499cdaf2761447c83b88dd3a17bed4f",
-        "name": "Pastelno šećerno pismo, set",
+        "name": "Pastelno šećerno pismo",
         "code": "101529800"
     },
     {
@@ -1751,7 +1746,7 @@ var products = [
     },
     {
         "id": "d12d6687ec75450ca5c7c926e94eb0b3",
-        "name": "Preša za kekse s 10 nastavaka",
+        "name": "Šprica za kekse s 10 nastavaka",
         "code": "170000629"
     },
     {
@@ -1846,12 +1841,12 @@ var products = [
     },
     {
         "id": "222d32b1d7c64f02a776441301cbb795",
-        "name": "Aroma vanilija - bočica ",
+        "name": "Aroma Badema - bočica",
         "code": "170006906"
     },
     {
         "id": "3c0899d7d54347bfa260985fb765568d",
-        "name": "Aroma vanilija - bočica ",
+        "name": "Aroma Naranče - bočica",
         "code": "170006907"
     },
     {
@@ -1883,5 +1878,15 @@ var products = [
         "id": "3c66bcb6f24e43d0b61476927f7e48bd",
         "name": "Pjenjača 30x8cm",
         "code": "170000650"
+    },
+    {
+        "id": "e58adbeb15d448bea540601441dd6ccb",
+        "name": "Bake & Go pekač s poklopcem, 29x42 cm",
+        "code": "170000651"
+    },
+    {
+        "id": "fdff71cd4dac40e69a5df2222a60b24e",
+        "name": "Žuta tekuća jestiva boja",
+        "code": "170005320"
     }
 ];
