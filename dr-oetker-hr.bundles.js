@@ -636,5 +636,29 @@ var bundles = {
             "name": "Sweet Zero Puding kakao",
             "quantity": 1
         }
+    ],
+    "170000655": [
+        {
+            "id": "cd1e7c4f7e204e548bb8f65497387f95",
+            "code": "170005821",
+            "name": "Vitalis hrskavi jastučići vanilija",
+            "quantity": 2
+        }
+    ],
+    "170000656": [
+        {
+            "id": "b3ac1b5a2ede41f68fdfc4ea1d4c970b",
+            "code": "101687600",
+            "name": "Vitalis SuperMuesli bez dodanog šećera",
+            "quantity": 2
+        }
+    ],
+    "170000657": [
+        {
+            "id": "e8db236171eb431783859d83ab983979",
+            "code": "170006967",
+            "name": "Superkaša XXL čokolada",
+            "quantity": 2
+        }
     ]
 };

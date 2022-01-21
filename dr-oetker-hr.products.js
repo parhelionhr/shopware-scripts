@@ -1888,5 +1888,45 @@ var products = [
         "id": "fdff71cd4dac40e69a5df2222a60b24e",
         "name": "Žuta tekuća jestiva boja",
         "code": "170005320"
+    },
+    {
+        "id": "1454e1bf52c042cdafba3fa8bfdb35c5",
+        "name": "Čokoladni muesli 600 g",
+        "code": "101663100"
+    },
+    {
+        "id": "e5b6c34e039f480c8cfbddb26ae74b42",
+        "name": "Vitalis hrskavi muesli s medom 600 g",
+        "code": "101663300"
+    },
+    {
+        "id": "d6f83693ea8e43ec870efefa187a3e4c",
+        "name": "2x Vitalis jastučići vanilija -50%",
+        "code": "170000655"
+    },
+    {
+        "id": "5e4f213aacb545b5bdcb1b9b68170a12",
+        "name": "2x Vitalis SuperMuesli bez dodanog šećera -50%",
+        "code": "170000656"
+    },
+    {
+        "id": "9cce72dfbd91479e961e76c7db6c14ec",
+        "name": "2x Super kaša XXL čokolada -50%",
+        "code": "170000657"
+    },
+    {
+        "id": "fb891e29e63b473ea5c55515360c28b0",
+        "name": "PAULA PLIŠANA KRAVICA 15 CM",
+        "code": "170000652"
+    },
+    {
+        "id": "ae4a9e19838c4f9185cb2172ee8a0b70",
+        "name": "PLIŠANA OVCA 30 CM",
+        "code": "170000653"
+    },
+    {
+        "id": "61ff1158ce6b47769372c1b20212fa6e",
+        "name": "PRIVJESAK PLIŠANA OVCA 10 CM",
+        "code": "170000654"
     }
 ];
