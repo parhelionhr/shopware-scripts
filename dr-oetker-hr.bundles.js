@@ -660,5 +660,63 @@ var bundles = {
             "name": "Superkaša XXL čokolada",
             "quantity": 2
         }
+    ],
+    "170000584": [
+        {
+            "id": "40e5ad91a2c04b95a795b643de62ce58",
+            "code": "170000593",
+            "name": "Kalup za puding 600 ml",
+            "quantity": 1
+        },
+        {
+            "id": "d0675e8ff97541d596c6b047493a25e7",
+            "code": "170021236",
+            "name": "Puding vanilija",
+            "quantity": 3
+        },
+        {
+            "id": "7e4ccea6887f4f1ab8b222eba2b7ca52",
+            "code": "170001235",
+            "name": "Puding čokolada",
+            "quantity": 2
+        },
+        {
+            "id": "13c68c0344a54f3da9241c4ebb58e3c2",
+            "code": "170004549",
+            "name": "Puding komadići čokolade",
+            "quantity": 2
+        },
+        {
+            "id": "ed847ac5cd0a45be8acb1f979807bd86",
+            "code": "170001238",
+            "name": "Puding slatko vrhnje",
+            "quantity": 2
+        },
+        {
+            "id": "3ca188606f834afdb626f3b3e683119b",
+            "code": "170002063",
+            "name": "Puding malina x3",
+            "quantity": 1
+        }
+    ],
+    "170000658": [
+        {
+            "id": "9b931415a5194383b92b5b7dde66b9b1",
+            "code": "170000637",
+            "name": "Ciobar šalica plava",
+            "quantity": 1
+        },
+        {
+            "id": "3a9d62b58f54450fbd3c6e9a336f672e",
+            "code": "170003468",
+            "name": "Ciobar - vruća čokolada x5",
+            "quantity": 1
+        },
+        {
+            "id": "896b2ec40afa4f6d9d7f74a5487244df",
+            "code": "170003469",
+            "name": "Ciobar - bijela čokolada x5",
+            "quantity": 1
+        }
     ]
 };

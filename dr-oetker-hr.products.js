@@ -1928,5 +1928,15 @@ var products = [
         "id": "61ff1158ce6b47769372c1b20212fa6e",
         "name": "PRIVJESAK PLIŠANA OVCA 10 CM",
         "code": "170000654"
+    },
+    {
+        "id": "c2018f240d5140768d9d9d6f074e72a6",
+        "name": "Puding set s kalupom",
+        "code": "170000584"
+    },
+    {
+        "id": "e80b0a1b3fcb47a2b5934b8a78cc89d1",
+        "name": "Ciobar vruća čokolada s šalicom",
+        "code": "170000658"
     }
 ];
