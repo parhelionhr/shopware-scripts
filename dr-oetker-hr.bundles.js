@@ -647,8 +647,8 @@ var bundles = {
     ],
     "170000656": [
         {
-            "id": "b3ac1b5a2ede41f68fdfc4ea1d4c970b",
-            "code": "101687600",
+            "id": "8fc351a3952244cfa6932cbb8012d7b2",
+            "code": "101687600_ROK",
             "name": "Vitalis SuperMuesli bez dodanog šećera",
             "quantity": 2
         }

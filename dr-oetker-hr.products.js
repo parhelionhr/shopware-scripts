@@ -1407,7 +1407,7 @@ var products = [
     {
         "id": "633be5ace3b541b9a9dc12cec11217c1",
         "name": "Svjećice s nosačima, 24kom + 12 nosača",
-        "code": "SW10307"
+        "code": "SW0001"
     },
     {
         "id": "113a8ca3fcc04c26a0505dac16a41b4b",
@@ -1896,7 +1896,7 @@ var products = [
     },
     {
         "id": "e5b6c34e039f480c8cfbddb26ae74b42",
-        "name": "Vitalis hrskavi muesli s medom 600 g",
+        "name": "Hrskavi muesli s medom 600g",
         "code": "101663300"
     },
     {
@@ -1936,7 +1936,117 @@ var products = [
     },
     {
         "id": "e80b0a1b3fcb47a2b5934b8a78cc89d1",
-        "name": "Ciobar vruća čokolada s šalicom",
+        "name": "Ciobar vruća čokolada sa šalicom",
         "code": "170000658"
+    },
+    {
+        "id": "d1c4694b6fb944acb34c150aaf46f533",
+        "name": "Mousse desert bijela čokolada",
+        "code": "101472400_ROK"
+    },
+    {
+        "id": "f822902bcab34b14a44378682ec1a2d1",
+        "name": "Ribana tamna čokolada",
+        "code": "101535000_ROK"
+    },
+    {
+        "id": "44811fc5fcae44869d899bb9b7a5d885",
+        "name": "Fina marcipan masa, 200g",
+        "code": "101555000_ROK"
+    },
+    {
+        "id": "2fbdbed6c5a9400287bae43237ec1dff",
+        "name": "Fondant Dekor u boji 500g",
+        "code": "130011527_ROK"
+    },
+    {
+        "id": "d5f5ccfaba4246188b14674c836aedc2",
+        "name": "Professional Šarene mrvice",
+        "code": "139252308_ROK"
+    },
+    {
+        "id": "04aed0f3246f4e0abe8f4d2803315041",
+        "name": "Professional Hrskave perle ",
+        "code": "139252332_ROK"
+    },
+    {
+        "id": "d861bc89d7e84ea884337109326ddca9",
+        "name": "Riža na mlijeku klasik",
+        "code": "170002560_ROK"
+    },
+    {
+        "id": "fe4c7273fd92456da787efb4720a75e4",
+        "name": "Garant za dizano tijesto",
+        "code": "170003782_ROK"
+    },
+    {
+        "id": "0d0b7be4d5b446b18b3b9e3fa6c25afe",
+        "name": "Domaće Vanilin Kiflice",
+        "code": "170004815_ROK"
+    },
+    {
+        "id": "1165b7fd4944490c90583a336fce5f9f",
+        "name": "Vitalis hrskavi jastučići vanilija",
+        "code": "170005821_ROK"
+    },
+    {
+        "id": "05007eb7855243b5b3e25262e0ce8239",
+        "name": "Super kaša multipack s  vanilijom 4x50g",
+        "code": "170006173_ROK"
+    },
+    {
+        "id": "b08126fb852d4308b934b6ffebfcd167",
+        "name": "Super kaša jabuka cimet",
+        "code": "170006183_ROK"
+    },
+    {
+        "id": "20ef0e6a6adb46fe928963617f199fe6",
+        "name": "Super kaša brusnica",
+        "code": "170006190_ROK"
+    },
+    {
+        "id": "7d92ea84db4f414fa58c7d84470c65e6",
+        "name": "Super kaša Plus s brusnicom",
+        "code": "170006403_ROK"
+    },
+    {
+        "id": "a9978ce70f68468f905baab7e7d269ea",
+        "name": "Super kaša Plus s tamnom čokoladom",
+        "code": "170006404_ROK"
+    },
+    {
+        "id": "20959b87b9634c5b8ea2a1905600db05",
+        "name": "Vitalis Muesli tamna čokolada",
+        "code": "170006426_ROK"
+    },
+    {
+        "id": "83d6e7fb5d1541569ff84ec5bc441e63",
+        "name": "Super puding - zobeni puding vanilija",
+        "code": "170006711_ROK"
+    },
+    {
+        "id": "69a913fd56804046af40c406248cc345",
+        "name": "Vanilija cake mix",
+        "code": "170006850_ROK"
+    },
+    {
+        "id": "a4a1c216f2344f1ebbff2bd61fa565e1",
+        "name": "Super kaša multipack s čokoladom 4x61g",
+        "code": "170006913_ROK"
+    },
+    {
+        "id": "ae1c0ad232684489b7ffbdd0a521a891",
+        "name": "Tamni kakao",
+        "code": "170011516_ROK"
+    },
+    {
+        "id": "f1c02bb3dda145c1b5c218779f67ed90",
+        "name": "Domaće Princes krafne",
+        "code": "170017470_ROK"
+    },
+    {
+        "id": "8fc351a3952244cfa6932cbb8012d7b2",
+        "name": "Vitalis SuperMuesli bez dodanog šećera",
+        "code": "101687600_ROK"
     }
 ];
