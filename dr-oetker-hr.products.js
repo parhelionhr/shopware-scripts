@@ -300,6 +300,11 @@ var products = [
         "code": "170006903"
     },
     {
+        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
+        "name": "Galetta čokolada",
+        "code": "170001246"
+    },
+    {
         "id": "7a1302503ef54a3ea7cd0aba043ccf8f",
         "name": "Crvena tekuća jestiva boja",
         "code": "170006900"
@@ -455,11 +460,6 @@ var products = [
         "code": "170001245"
     },
     {
-        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
-        "name": "Galetta čokolada",
-        "code": "170001246"
-    },
-    {
         "id": "1a8d636be20447aea1306c3efe949494",
         "name": "Tiramisu",
         "code": "170023587"
@@ -510,11 +510,6 @@ var products = [
         "code": "170006414"
     },
     {
-        "id": "237d54dcd8ef453d8a0ed6fadc7649a3",
-        "name": "Choco lava muffins",
-        "code": "170006402"
-    },
-    {
         "id": "ee7e6a9389fd478d9be89a3d431b8b60",
         "name": "Čokolada cake mix",
         "code": "170006849"
@@ -538,11 +533,6 @@ var products = [
         "id": "130bfae453b84a0181a34312a2aa045b",
         "name": "Mramorni muffins",
         "code": "170016535"
-    },
-    {
-        "id": "839c9c3a7e9647d7924835671bd30851",
-        "name": "Muffins",
-        "code": "170003780"
     },
     {
         "id": "bdad7921d60f4f3ab79cbe58bef7568a",
@@ -610,6 +600,11 @@ var products = [
         "code": "170006190"
     },
     {
+        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
+        "name": "Gluten Free Palačinke",
+        "code": "170006229"
+    },
+    {
         "id": "f5460325c13642769233e3acb10958db",
         "name": "Super kaša multipack s čokoladom 4x61g",
         "code": "170006913"
@@ -633,11 +628,6 @@ var products = [
         "id": "6ca6bbcff8244bc9b664f70f39d05501",
         "name": "Palačinke 215g",
         "code": "170003412"
-    },
-    {
-        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
-        "name": "Gluten Free Palačinke",
-        "code": "170006229"
     },
     {
         "id": "4cda9c67a8e64b9b81407ebf176bb4a1",
@@ -755,24 +745,9 @@ var products = [
         "code": "170006421"
     },
     {
-        "id": "126fda0e0305482d999fcd9b5bb08eeb",
-        "name": "Vitalis hrskave badem pahuljice",
-        "code": "170016428"
-    },
-    {
         "id": "0e84ce8a7dc447808b3247b9fca3a1c0",
         "name": "Vitalis hrskavi muesli s medom",
         "code": "170006446"
-    },
-    {
-        "id": "74cb833aa52f4201bb7ef010cc877d24",
-        "name": "Vitalis Muesli tamna čokolada",
-        "code": "170006426"
-    },
-    {
-        "id": "82fbd85ac0b3495db0ef51d450350f50",
-        "name": "Vitalis 7 žitarica voćni muesli",
-        "code": "170001410"
     },
     {
         "id": "1de4b90b3f6f46f2b99197bb0295bc73",
@@ -838,6 +813,11 @@ var products = [
         "id": "7c27cf1ed02e4f6892fb824f675b5939",
         "name": "Vitalis roasted čoko-lješnjak ",
         "code": "101655500"
+    },
+    {
+        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
+        "name": "Set \"Party paketić\"",
+        "code": "170000540"
     },
     {
         "id": "2da3dbe9b40447e2999c9dc9b161325c",
@@ -1175,11 +1155,6 @@ var products = [
         "code": "170006967"
     },
     {
-        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
-        "name": "Set \"Party paketić\"",
-        "code": "170000540"
-    },
-    {
         "id": "9e18946b69894a0dbb141944cce27766",
         "name": "Set Slatki obroci -20%",
         "code": "170000543"
@@ -1303,11 +1278,6 @@ var products = [
         "id": "8d2be321a171415988b086258a7a12ec",
         "name": "Professional Čokoladne mrvice ",
         "code": "139250074"
-    },
-    {
-        "id": "79abd47f86b943d4812f0d4aa8a3e06e",
-        "name": "Professional Šarene mrvice",
-        "code": "139252308"
     },
     {
         "id": "edb972cf590141969fd2c92375333945",
@@ -1735,11 +1705,6 @@ var products = [
         "code": "170000626"
     },
     {
-        "id": "316ea862c97149e2a32ceae0b861c06a",
-        "name": "Posuda za topljenje čokolade, nehrđajući čelik",
-        "code": "170000627"
-    },
-    {
         "id": "c413ebf4735646919feb83b3025ffb2b",
         "name": "Kist za kolače, drvena ručka 20,5 cm",
         "code": "170000633"
@@ -2025,11 +1990,6 @@ var products = [
         "code": "170006711_ROK"
     },
     {
-        "id": "69a913fd56804046af40c406248cc345",
-        "name": "Vanilija cake mix",
-        "code": "170006850_ROK"
-    },
-    {
         "id": "a4a1c216f2344f1ebbff2bd61fa565e1",
         "name": "Super kaša multipack s čokoladom 4x61g",
         "code": "170006913_ROK"
@@ -2048,5 +2008,125 @@ var products = [
         "id": "8fc351a3952244cfa6932cbb8012d7b2",
         "name": "Vitalis SuperMuesli bez dodanog šećera",
         "code": "101687600_ROK"
+    },
+    {
+        "id": "ef64a76db8444856b764f79cc89b4ea1",
+        "name": "Kalup u obliku janjeta, dvodjelni",
+        "code": "170000659"
+    },
+    {
+        "id": "e3cdbe70ea8048a385dfabcf6710ec9d",
+        "name": "Kartonska kutija za praline srce, 2 kom",
+        "code": "170000660"
+    },
+    {
+        "id": "f8d1334ab0a0481690c20ca57912e44d",
+        "name": "Srce kartice za označavanje zimnice, 8\/1",
+        "code": "170000661"
+    },
+    {
+        "id": "7d5b5cd1683d4f80a8af0fb5e0cdce41",
+        "name": "Srce kartice za označavanje zimnice, 8\/1",
+        "code": "170000662"
+    },
+    {
+        "id": "0bf6e29038f34228b9fb875e11cc6c77",
+        "name": "Modlice za kekse \"Zečja obitelj\", 3 kom",
+        "code": "170000663"
+    },
+    {
+        "id": "1b2584f5dd3a409fb861c86838fa62c8",
+        "name": "Lincer modlice \"Uskrsno jaje\", 3 kom",
+        "code": "170000664"
+    },
+    {
+        "id": "1fac3c1998154f49902abbd3188db20c",
+        "name": "Veliki okvir za keks \"Veseli zeko\"",
+        "code": "170000665"
+    },
+    {
+        "id": "69a913fd56804046af40c406248cc345",
+        "name": "Vanilija cake mix",
+        "code": "170006850_ROK"
+    },
+    {
+        "id": "2148359697a14116bba32f50cce51e31",
+        "name": "Čokoladno pismo",
+        "code": "101531300_ROK"
+    },
+    {
+        "id": "e3d5fcaffd7e4680b04cea89c0f6db74",
+        "name": "Čokoladna srca",
+        "code": "101535500_ROK"
+    },
+    {
+        "id": "77b60b64523b4289a9fc9711067dd5f4",
+        "name": "Vitalis roasted čoko-lješnjak ",
+        "code": "101655500_ROK"
+    },
+    {
+        "id": "fd23f476d44c41d7a59545052176c2af",
+        "name": "Mini Muffins",
+        "code": "170005396_ROK"
+    },
+    {
+        "id": "41a0a67022b143c6a5b0f0f2413a5a96",
+        "name": "Super kaša s malinom i chia sjemenkama",
+        "code": "170006051_ROK"
+    },
+    {
+        "id": "3558006505ff499096a0d785555e1a28",
+        "name": "Američke palačinke s proteinima",
+        "code": "170006534_ROK"
+    },
+    {
+        "id": "283e542af0b04d8c8cc009599d9f46b8",
+        "name": "Vitalis hrskavi muesli s medom 600g ",
+        "code": "170006613_ROK"
+    },
+    {
+        "id": "9b3c25ef498d42eb80af30fcd0037370",
+        "name": "Crna tekuća jestiva boja",
+        "code": "170006903_ROK"
+    },
+    {
+        "id": "7e0e915661244e8f8cb88424ce93b862",
+        "name": "Cimet šećer x3",
+        "code": "170006857_ROK"
+    },
+    {
+        "id": "237d54dcd8ef453d8a0ed6fadc7649a3",
+        "name": "Choco lava muffins",
+        "code": "170006402"
+    },
+    {
+        "id": "839c9c3a7e9647d7924835671bd30851",
+        "name": "Muffins",
+        "code": "170003780"
+    },
+    {
+        "id": "126fda0e0305482d999fcd9b5bb08eeb",
+        "name": "Vitalis hrskave badem pahuljice",
+        "code": "170016428"
+    },
+    {
+        "id": "74cb833aa52f4201bb7ef010cc877d24",
+        "name": "Vitalis Muesli tamna čokolada",
+        "code": "170006426"
+    },
+    {
+        "id": "82fbd85ac0b3495db0ef51d450350f50",
+        "name": "Vitalis 7 žitarica voćni muesli",
+        "code": "170001410"
+    },
+    {
+        "id": "79abd47f86b943d4812f0d4aa8a3e06e",
+        "name": "Professional Šarene mrvice",
+        "code": "139252308"
+    },
+    {
+        "id": "316ea862c97149e2a32ceae0b861c06a",
+        "name": "Posuda za topljenje čokolade, nehrđajući čelik",
+        "code": "170000627"
     }
 ];

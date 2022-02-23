@@ -1,4 +1,24 @@
 var bundles = {
+    "170000540": [
+        {
+            "id": "fa74af0c16d742209ecaecf130382b4b",
+            "code": "170000533",
+            "name": "Retro roza kuhinjska rukavica ",
+            "quantity": 1
+        },
+        {
+            "id": "d2a3e2b974bd41008b92d12a8f35211f",
+            "code": "170005396",
+            "name": "Mini Muffins",
+            "quantity": 1
+        },
+        {
+            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
+            "code": "101526000",
+            "name": "Svjećice Happy Birthday",
+            "quantity": 1
+        }
+    ],
     "170000528": [
         {
             "id": "3b5d153a6da14e33afa871b8a5e0c541",
@@ -198,26 +218,6 @@ var bundles = {
             "id": "22d4caec033f4b60b2216812b6ef54d7",
             "code": "170001226",
             "name": "Krema za torte čokolada",
-            "quantity": 1
-        }
-    ],
-    "170000540": [
-        {
-            "id": "fa74af0c16d742209ecaecf130382b4b",
-            "code": "170000533",
-            "name": "Retro roza kuhinjska rukavica ",
-            "quantity": 1
-        },
-        {
-            "id": "d2a3e2b974bd41008b92d12a8f35211f",
-            "code": "170005396",
-            "name": "Mini Muffins",
-            "quantity": 1
-        },
-        {
-            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
-            "code": "101526000",
-            "name": "Svjećice Happy Birthday",
             "quantity": 1
         }
     ],
