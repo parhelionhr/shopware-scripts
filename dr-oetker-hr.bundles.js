@@ -1,24 +1,4 @@
 var bundles = {
-    "170000540": [
-        {
-            "id": "fa74af0c16d742209ecaecf130382b4b",
-            "code": "170000533",
-            "name": "Retro roza kuhinjska rukavica ",
-            "quantity": 1
-        },
-        {
-            "id": "d2a3e2b974bd41008b92d12a8f35211f",
-            "code": "170005396",
-            "name": "Mini Muffins",
-            "quantity": 1
-        },
-        {
-            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
-            "code": "101526000",
-            "name": "Svjećice Happy Birthday",
-            "quantity": 1
-        }
-    ],
     "170000528": [
         {
             "id": "3b5d153a6da14e33afa871b8a5e0c541",
@@ -655,8 +635,8 @@ var bundles = {
     ],
     "170000657": [
         {
-            "id": "e8db236171eb431783859d83ab983979",
-            "code": "170006967",
+            "id": "54d3fe48d0604ddda1306610f4aeea63",
+            "code": "170006967_ROK",
             "name": "Superkaša XXL čokolada",
             "quantity": 2
         }
@@ -716,6 +696,392 @@ var bundles = {
             "id": "896b2ec40afa4f6d9d7f74a5487244df",
             "code": "170003469",
             "name": "Ciobar - bijela čokolada x5",
+            "quantity": 1
+        }
+    ],
+    "170000540": [
+        {
+            "id": "fa74af0c16d742209ecaecf130382b4b",
+            "code": "170000533",
+            "name": "Retro roza kuhinjska rukavica ",
+            "quantity": 1
+        },
+        {
+            "id": "d2a3e2b974bd41008b92d12a8f35211f",
+            "code": "170005396",
+            "name": "Mini Muffins",
+            "quantity": 1
+        },
+        {
+            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
+            "code": "101526000",
+            "name": "Svjećice Happy Birthday",
+            "quantity": 1
+        }
+    ],
+    "170007163": [
+        {
+            "id": "773655a6d08242b8946ededb74f9f507",
+            "code": "170000670",
+            "name": "Roza četvrtasti kalup retro, 25 cm",
+            "quantity": 1
+        },
+        {
+            "id": "681a1fce296a44ca8226012431ac1118",
+            "code": "170006725",
+            "name": "Vanilin šećer 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "ce3eb712cc0145f5b0dc49b83c65409c",
+            "code": "170005525",
+            "name": "Original Backin 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "1d8016d19eac428498ae30541655e0e2",
+            "code": "170014691",
+            "name": " Kakao za kolače ",
+            "quantity": 1
+        },
+        {
+            "id": "64c88eed0586434db7f83cf3f86257a9",
+            "code": "170005128",
+            "name": "Kakao mrvice ",
+            "quantity": 1
+        },
+        {
+            "id": "0bf8ab20371b4b2fbfe5c13c10332c57",
+            "code": "101541100",
+            "name": "Glazura za kolače, tamna čokolada",
+            "quantity": 1
+        }
+    ],
+    "170000671": [
+        {
+            "id": "681a1fce296a44ca8226012431ac1118",
+            "code": "170006725",
+            "name": "Vanilin šećer 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "eee84b97603f4dbcb1fef0afa6fb701d",
+            "code": "170002122",
+            "name": "Kremfix x3",
+            "quantity": 1
+        },
+        {
+            "id": "ce3eb712cc0145f5b0dc49b83c65409c",
+            "code": "170005525",
+            "name": "Original Backin 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "9cbb04e1618a4fa4aa30b9b54691a194",
+            "code": "101143600",
+            "name": "Finesse naribana korica naranče",
+            "quantity": 1
+        },
+        {
+            "id": "2f01be5340bc439588c2c81b781644dc",
+            "code": "101565000",
+            "name": "Mljeveni bademi",
+            "quantity": 1
+        },
+        {
+            "id": "7caf9dc44c9a47d5879d9deda8a89307",
+            "code": "101526600",
+            "name": "Fondant dekor bijeli 100g",
+            "quantity": 1
+        },
+        {
+            "id": "da4c7a15f0354472b4a5b1d3dfa52bca",
+            "code": "170006902",
+            "name": "Zelena tekuća jestiva boja",
+            "quantity": 1
+        },
+        {
+            "id": "7a1302503ef54a3ea7cd0aba043ccf8f",
+            "code": "170006900",
+            "name": "Crvena tekuća jestiva boja",
+            "quantity": 1
+        },
+        {
+            "id": "fdff71cd4dac40e69a5df2222a60b24e",
+            "code": "170005320",
+            "name": "Žuta tekuća jestiva boja",
+            "quantity": 1
+        },
+        {
+            "id": "801bdba0c1904de39ce44b3233e99913",
+            "code": "170000671_recept",
+            "name": "Set Kolač od mrkve-recept",
+            "quantity": 1
+        }
+    ],
+    "170000672": [
+        {
+            "id": "1b2584f5dd3a409fb861c86838fa62c8",
+            "code": "170000664",
+            "name": "Lincer modlice \"Uskrsno jaje\", 3 kom",
+            "quantity": 1
+        },
+        {
+            "id": "681a1fce296a44ca8226012431ac1118",
+            "code": "170006725",
+            "name": "Vanilin šećer 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "9cbb04e1618a4fa4aa30b9b54691a194",
+            "code": "101143600",
+            "name": "Finesse naribana korica naranče",
+            "quantity": 1
+        },
+        {
+            "id": "2f01be5340bc439588c2c81b781644dc",
+            "code": "101565000",
+            "name": "Mljeveni bademi",
+            "quantity": 1
+        },
+        {
+            "id": "ccec1bd78074470186415242b3779286",
+            "code": "170017032",
+            "name": "Sladki prah šećer u prahu 200g",
+            "quantity": 1
+        },
+        {
+            "id": "4499cdaf2761447c83b88dd3a17bed4f",
+            "code": "101529800",
+            "name": "Pastelno šećerno pismo",
+            "quantity": 1
+        },
+        {
+            "id": "e6f074deba2d446a8c9c5b5a446106f0",
+            "code": "170025516",
+            "name": "Dekor mix perle soft",
+            "quantity": 1
+        },
+        {
+            "id": "a0e0133b5710476abe4a2a2d3304c8a0",
+            "code": "170015514",
+            "name": "Dekor Sweet Rose",
+            "quantity": 1
+        },
+        {
+            "id": "1525236ec5fe41ff8d77dbb0951bdcab",
+            "code": "170005168",
+            "name": "Plava boja za kolače",
+            "quantity": 1
+        },
+        {
+            "id": "fc3172ff12164507818105d0646ed73a",
+            "code": "170005952",
+            "name": "Crvena boja za kolače",
+            "quantity": 1
+        },
+        {
+            "id": "6cd12693783940a7a9361afb79ec2a15",
+            "code": "170000672_recept",
+            "name": "Set Uskrsni linceri-recept",
+            "quantity": 1
+        }
+    ],
+    "170000673": [
+        {
+            "id": "c4cb61756bc44db9af55a67ab8c4be7a",
+            "code": "170000617",
+            "name": "\"Bake someone happy\" pamučna vrećica",
+            "quantity": 1
+        },
+        {
+            "id": "1fac3c1998154f49902abbd3188db20c",
+            "code": "170000665",
+            "name": "Veliki okvir za keks \"Veseli zeko\"",
+            "quantity": 1
+        },
+        {
+            "id": "bc280fb7c7ab4fcaa40702312122b494",
+            "code": "101531100",
+            "name": "Bijelo šećerno pismo u tubici",
+            "quantity": 1
+        },
+        {
+            "id": "f8b7dcc2b19541e593bf3febcd42b26e",
+            "code": "170004575",
+            "name": "Bourbon vanilin šećer x3",
+            "quantity": 1
+        },
+        {
+            "id": "18dee41bfd664c77b994cff325f4fb72",
+            "code": "170001190",
+            "name": "Prašak za pecivo",
+            "quantity": 3
+        }
+    ],
+    "170000674": [
+        {
+            "id": "773655a6d08242b8946ededb74f9f507",
+            "code": "170000670",
+            "name": "Roza četvrtasti kalup retro, 25 cm",
+            "quantity": 1
+        },
+        {
+            "id": "681a1fce296a44ca8226012431ac1118",
+            "code": "170006725",
+            "name": "Vanilin šećer 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "ce3eb712cc0145f5b0dc49b83c65409c",
+            "code": "170005525",
+            "name": "Original Backin 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "1d8016d19eac428498ae30541655e0e2",
+            "code": "170014691",
+            "name": " Kakao za kolače ",
+            "quantity": 1
+        },
+        {
+            "id": "64c88eed0586434db7f83cf3f86257a9",
+            "code": "170005128",
+            "name": "Kakao mrvice ",
+            "quantity": 1
+        },
+        {
+            "id": "0bf8ab20371b4b2fbfe5c13c10332c57",
+            "code": "101541100",
+            "name": "Glazura za kolače, tamna čokolada",
+            "quantity": 1
+        },
+        {
+            "id": "674ffab21df24810954ed396b98f8ebd",
+            "code": "170005127",
+            "name": "Šarene mrvice",
+            "quantity": 1
+        },
+        {
+            "id": "dc19fecc938241c6bdbebf76a57492cf",
+            "code": "170000674_recept",
+            "name": "Set za kolač s glazurom-recept",
+            "quantity": 1
+        }
+    ],
+    "170000675": [
+        {
+            "id": "8b885edfb26b44739110ec659e2d2e11",
+            "code": "170000592",
+            "name": "Kutija za kekse Čipka",
+            "quantity": 1
+        },
+        {
+            "id": "0bf6e29038f34228b9fb875e11cc6c77",
+            "code": "170000663",
+            "name": "Modlice za kekse \"Zečja obitelj\", 3 kom",
+            "quantity": 1
+        },
+        {
+            "id": "b15a0e1e09154d7891926b18463e70d2",
+            "code": "170004974",
+            "name": "Domaći Prhki keksi",
+            "quantity": 1
+        },
+        {
+            "id": "4499cdaf2761447c83b88dd3a17bed4f",
+            "code": "101529800",
+            "name": "Pastelno šećerno pismo",
+            "quantity": 1
+        },
+        {
+            "id": "e6f074deba2d446a8c9c5b5a446106f0",
+            "code": "170025516",
+            "name": "Dekor mix perle soft",
+            "quantity": 2
+        },
+        {
+            "id": "077dd8fdeeb24da3b6833552b89bf9ba",
+            "code": "170000675_recept",
+            "name": "Set Zečja obitelj-recept",
+            "quantity": 1
+        }
+    ],
+    "170000676": [
+        {
+            "id": "4817d51b8b7d49449b4d36ee830c4982",
+            "code": "170000527",
+            "name": "Retro okrugli kalup Ø20 cm",
+            "quantity": 1
+        },
+        {
+            "id": "fa74af0c16d742209ecaecf130382b4b",
+            "code": "170000533",
+            "name": "Retro roza kuhinjska rukavica ",
+            "quantity": 1
+        },
+        {
+            "id": "f068ec86bb4a419088ee0e10b6a3ad22",
+            "code": "170000667",
+            "name": "Špatula za nadjev retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "96839ecd59da4757b123a938158ab062",
+            "code": "170000618",
+            "name": "\"Homemade\" pamučna vrećica, natur",
+            "quantity": 1
+        }
+    ],
+    "170000677": [
+        {
+            "id": "773655a6d08242b8946ededb74f9f507",
+            "code": "170000670",
+            "name": "Roza četvrtasti kalup retro, 25 cm",
+            "quantity": 1
+        },
+        {
+            "id": "f068ec86bb4a419088ee0e10b6a3ad22",
+            "code": "170000667",
+            "name": "Špatula za nadjev retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "b59bc9e1bea64932858e94f93f1f9796",
+            "code": "170000668",
+            "name": "Sito malo retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "80753a6026ce4d7a9bd709257c474a0b",
+            "code": "170000669",
+            "name": "Pjenjača 26,5 cm retro, drvena drška",
+            "quantity": 1
+        }
+    ],
+    "170000678": [
+        {
+            "id": "f068ec86bb4a419088ee0e10b6a3ad22",
+            "code": "170000667",
+            "name": "Špatula za nadjev retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "b59bc9e1bea64932858e94f93f1f9796",
+            "code": "170000668",
+            "name": "Sito malo retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "80753a6026ce4d7a9bd709257c474a0b",
+            "code": "170000669",
+            "name": "Pjenjača 26,5 cm retro, drvena drška",
+            "quantity": 1
+        },
+        {
+            "id": "672a65983b7d4d5a9f63b86c425cd55b",
+            "code": "170000591",
+            "name": "Kutija za kekse Nostalgija",
             "quantity": 1
         }
     ]

@@ -300,11 +300,6 @@ var products = [
         "code": "170006903"
     },
     {
-        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
-        "name": "Galetta čokolada",
-        "code": "170001246"
-    },
-    {
         "id": "7a1302503ef54a3ea7cd0aba043ccf8f",
         "name": "Crvena tekuća jestiva boja",
         "code": "170006900"
@@ -600,11 +595,6 @@ var products = [
         "code": "170006190"
     },
     {
-        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
-        "name": "Gluten Free Palačinke",
-        "code": "170006229"
-    },
-    {
         "id": "f5460325c13642769233e3acb10958db",
         "name": "Super kaša multipack s čokoladom 4x61g",
         "code": "170006913"
@@ -813,11 +803,6 @@ var products = [
         "id": "7c27cf1ed02e4f6892fb824f675b5939",
         "name": "Vitalis roasted čoko-lješnjak ",
         "code": "101655500"
-    },
-    {
-        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
-        "name": "Set \"Party paketić\"",
-        "code": "170000540"
     },
     {
         "id": "2da3dbe9b40447e2999c9dc9b161325c",
@@ -1721,7 +1706,7 @@ var products = [
     },
     {
         "id": "65a4c73d67d942f9a2ce18ba861f7ede",
-        "name": "Kist za kolače, drvena ručka 20,5 cm",
+        "name": "Kist za kolače, drvena ručka 20,5 cm-gratis",
         "code": "170000628"
     },
     {
@@ -2026,7 +2011,7 @@ var products = [
     },
     {
         "id": "7d5b5cd1683d4f80a8af0fb5e0cdce41",
-        "name": "Srce kartice za označavanje zimnice, 8\/1",
+        "name": "Kartica srce za poruku, srce 8\/1 - promo",
         "code": "170000662"
     },
     {
@@ -2045,11 +2030,6 @@ var products = [
         "code": "170000665"
     },
     {
-        "id": "69a913fd56804046af40c406248cc345",
-        "name": "Vanilija cake mix",
-        "code": "170006850_ROK"
-    },
-    {
         "id": "2148359697a14116bba32f50cce51e31",
         "name": "Čokoladno pismo",
         "code": "101531300_ROK"
@@ -2058,11 +2038,6 @@ var products = [
         "id": "e3d5fcaffd7e4680b04cea89c0f6db74",
         "name": "Čokoladna srca",
         "code": "101535500_ROK"
-    },
-    {
-        "id": "77b60b64523b4289a9fc9711067dd5f4",
-        "name": "Vitalis roasted čoko-lješnjak ",
-        "code": "101655500_ROK"
     },
     {
         "id": "fd23f476d44c41d7a59545052176c2af",
@@ -2080,6 +2055,11 @@ var products = [
         "code": "170006534_ROK"
     },
     {
+        "id": "f068ec86bb4a419088ee0e10b6a3ad22",
+        "name": "Špatula za nadjev retro, drvena drška",
+        "code": "170000667"
+    },
+    {
         "id": "283e542af0b04d8c8cc009599d9f46b8",
         "name": "Vitalis hrskavi muesli s medom 600g ",
         "code": "170006613_ROK"
@@ -2095,6 +2075,16 @@ var products = [
         "code": "170006857_ROK"
     },
     {
+        "id": "11c1c0d0b38542789311840233f4d43f",
+        "name": "Kalendar s receptima 2022. - promo",
+        "code": "170000666"
+    },
+    {
+        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
+        "name": "Galetta čokolada",
+        "code": "170001246"
+    },
+    {
         "id": "237d54dcd8ef453d8a0ed6fadc7649a3",
         "name": "Choco lava muffins",
         "code": "170006402"
@@ -2103,6 +2093,11 @@ var products = [
         "id": "839c9c3a7e9647d7924835671bd30851",
         "name": "Muffins",
         "code": "170003780"
+    },
+    {
+        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
+        "name": "Gluten Free Palačinke",
+        "code": "170006229"
     },
     {
         "id": "126fda0e0305482d999fcd9b5bb08eeb",
@@ -2120,6 +2115,11 @@ var products = [
         "code": "170001410"
     },
     {
+        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
+        "name": "Set \"Party paketić\"",
+        "code": "170000540"
+    },
+    {
         "id": "79abd47f86b943d4812f0d4aa8a3e06e",
         "name": "Professional Šarene mrvice",
         "code": "139252308"
@@ -2128,5 +2128,165 @@ var products = [
         "id": "316ea862c97149e2a32ceae0b861c06a",
         "name": "Posuda za topljenje čokolade, nehrđajući čelik",
         "code": "170000627"
+    },
+    {
+        "id": "69a913fd56804046af40c406248cc345",
+        "name": "Vanilija cake mix",
+        "code": "170006850_ROK"
+    },
+    {
+        "id": "77b60b64523b4289a9fc9711067dd5f4",
+        "name": "Vitalis roasted čoko-lješnjak ",
+        "code": "101655500_ROK"
+    },
+    {
+        "id": "b59bc9e1bea64932858e94f93f1f9796",
+        "name": "Sito malo retro, drvena drška",
+        "code": "170000668"
+    },
+    {
+        "id": "80753a6026ce4d7a9bd709257c474a0b",
+        "name": "Pjenjača 26,5 cm retro, drvena drška",
+        "code": "170000669"
+    },
+    {
+        "id": "773655a6d08242b8946ededb74f9f507",
+        "name": "Roza četvrtasti kalup retro, 25 cm",
+        "code": "170000670"
+    },
+    {
+        "id": "f980d7c075674d018242e60b29b8e286",
+        "name": "Dr. Oetker Anđeo kutija za kolače",
+        "code": "170007163"
+    },
+    {
+        "id": "54d3fe48d0604ddda1306610f4aeea63",
+        "name": "Superkaša XXL čokolada",
+        "code": "170006967_ROK"
+    },
+    {
+        "id": "ccd78e9844b94bc1a2f06c3c5681fbdf",
+        "name": "Set Kolač od mrkve",
+        "code": "170000671"
+    },
+    {
+        "id": "e376c1bb924e4bf09b0eaeb8e1495b24",
+        "name": "Set Uskrsni linceri",
+        "code": "170000672"
+    },
+    {
+        "id": "802523b326954396a6c3aae66ca58b02",
+        "name": "Set Uskrsni znak pažnje",
+        "code": "170000673"
+    },
+    {
+        "id": "eaba64496d764e6c88f4a867a1b7adc8",
+        "name": "Set za kolač s glazurom",
+        "code": "170000674"
+    },
+    {
+        "id": "fb255872ab51417786918a5603d727c1",
+        "name": "Set Zečja obitelj",
+        "code": "170000675"
+    },
+    {
+        "id": "0113da4a7a7e42a0b86785d3f6530ccd",
+        "name": "Set Homemade torta",
+        "code": "170000676"
+    },
+    {
+        "id": "b6461d5d608e4e0c8ae2ba0341c80cc3",
+        "name": "Poklon set Retro",
+        "code": "170000677"
+    },
+    {
+        "id": "0bb376e35a6c4b36a125bd5a703b5608",
+        "name": "Poklon set Nostalgija",
+        "code": "170000678"
+    },
+    {
+        "id": "dc19fecc938241c6bdbebf76a57492cf",
+        "name": "Set za kolač s glazurom-recept",
+        "code": "170000674_recept"
+    },
+    {
+        "id": "6cd12693783940a7a9361afb79ec2a15",
+        "name": "Set Uskrsni linceri-recept",
+        "code": "170000672_recept"
+    },
+    {
+        "id": "801bdba0c1904de39ce44b3233e99913",
+        "name": "Set Kolač od mrkve-recept",
+        "code": "170000671_recept"
+    },
+    {
+        "id": "077dd8fdeeb24da3b6833552b89bf9ba",
+        "name": "Set Zečja obitelj-recept",
+        "code": "170000675_recept"
+    },
+    {
+        "id": "52db30951dea4d8d88b6d8f0f55ff2da",
+        "name": "Finesse naribana korica limuna",
+        "code": "101143500_ROK"
+    },
+    {
+        "id": "d035a06e3149485ea2ecb5e45a21c1f7",
+        "name": "Fondant dekor bijeli 100g",
+        "code": "101526600_ROK"
+    },
+    {
+        "id": "17d815c79a5b4efd903d47271ef39b8d",
+        "name": "Vitalis 7 žitarica integralni muesli",
+        "code": "170001409_ROK"
+    },
+    {
+        "id": "d98f4f3cfc694ad193dd6659ffee9bd7",
+        "name": "Vitalis hrskavi jastučići čokolada",
+        "code": "170005822_ROK"
+    },
+    {
+        "id": "cd86dda26d3c4f519afe43d8c5239f3f",
+        "name": "Super kaša s vanilijom i chia sjemenkama",
+        "code": "170005956_ROK"
+    },
+    {
+        "id": "a284fd7b4ddc406cb4df29959225ea55",
+        "name": "Gluten free muffins",
+        "code": "170006400_ROK"
+    },
+    {
+        "id": "d3482be85bb04b6fa84ccaf9db51c6f9",
+        "name": "Vitalis Čokoladni muesli ",
+        "code": "170006421_ROK"
+    },
+    {
+        "id": "b9d62a6d3b3a4bd5ba6e706c2ab5bd71",
+        "name": "Vitalis Crunchy Plus Multi Voće",
+        "code": "170006432_ROK"
+    },
+    {
+        "id": "aae620abd920435aa7a0e203dacd1c49",
+        "name": "Vitalis hrskavi muesli s medom",
+        "code": "170006446_ROK"
+    },
+    {
+        "id": "9d4c9b571e5046189ce429a272f8d649",
+        "name": "Ledeni desert čokolada",
+        "code": "170006590_ROK"
+    },
+    {
+        "id": "4e5550fe405b48ccafc3db7ea41d5de4",
+        "name": "Super kaša sa šumskim voćem i chia sjemenkama",
+        "code": "170006842_ROK"
+    },
+    {
+        "id": "16c92369c58b4e429f5e77bf3afd2558",
+        "name": "Dekor Creation Blue",
+        "code": "170015513_ROK"
+    },
+    {
+        "id": "d5f93f6f7e8a47008940f8202800355a",
+        "name": "Želatina x3 svijetla",
+        "code": "170020010_ROK"
     }
 ];
