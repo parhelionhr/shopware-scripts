@@ -189,8 +189,8 @@ var bundles = {
             "quantity": 1
         },
         {
-            "id": "f822c06e5d09442bb74dc5d5e9e4c2ce",
-            "code": "170015513",
+            "id": "16c92369c58b4e429f5e77bf3afd2558",
+            "code": "170015513_ROK",
             "name": "Dekor Creation Blue",
             "quantity": 1
         },
@@ -716,44 +716,6 @@ var bundles = {
             "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
             "code": "101526000",
             "name": "Svjećice Happy Birthday",
-            "quantity": 1
-        }
-    ],
-    "170007163": [
-        {
-            "id": "773655a6d08242b8946ededb74f9f507",
-            "code": "170000670",
-            "name": "Roza četvrtasti kalup retro, 25 cm",
-            "quantity": 1
-        },
-        {
-            "id": "681a1fce296a44ca8226012431ac1118",
-            "code": "170006725",
-            "name": "Vanilin šećer 5+1",
-            "quantity": 1
-        },
-        {
-            "id": "ce3eb712cc0145f5b0dc49b83c65409c",
-            "code": "170005525",
-            "name": "Original Backin 5+1",
-            "quantity": 1
-        },
-        {
-            "id": "1d8016d19eac428498ae30541655e0e2",
-            "code": "170014691",
-            "name": " Kakao za kolače ",
-            "quantity": 1
-        },
-        {
-            "id": "64c88eed0586434db7f83cf3f86257a9",
-            "code": "170005128",
-            "name": "Kakao mrvice ",
-            "quantity": 1
-        },
-        {
-            "id": "0bf8ab20371b4b2fbfe5c13c10332c57",
-            "code": "101541100",
-            "name": "Glazura za kolače, tamna čokolada",
             "quantity": 1
         }
     ],
