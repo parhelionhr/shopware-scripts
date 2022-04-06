@@ -2157,7 +2157,7 @@ var products = [
     {
         "id": "f980d7c075674d018242e60b29b8e286",
         "name": "Dr. Oetker Anđeo kutija za kolače",
-        "code": "170007163"
+        "code": "170007163-neispravno"
     },
     {
         "id": "54d3fe48d0604ddda1306610f4aeea63",
@@ -2288,5 +2288,10 @@ var products = [
         "id": "d5f93f6f7e8a47008940f8202800355a",
         "name": "Želatina x3 svijetla",
         "code": "170020010_ROK"
+    },
+    {
+        "id": "c0988243200a43c180bfd98a658ff615",
+        "name": "Dr. Oetker Anđeo kutija za kolače",
+        "code": "170007163"
     }
 ];
