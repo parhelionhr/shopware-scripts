@@ -2293,5 +2293,15 @@ var products = [
         "id": "c0988243200a43c180bfd98a658ff615",
         "name": "Dr. Oetker Anđeo kutija za kolače",
         "code": "170007163"
+    },
+    {
+        "id": "a009a45d8059477295e6281884ef7cca",
+        "name": "Professional Desertni preljev jagoda ",
+        "code": "154213110_ROK"
+    },
+    {
+        "id": "611101bef0a1421ea78090203444ed52",
+        "name": "Okrugli kalup izrazito visokog ruba, 18 cm",
+        "code": "170000687"
     }
 ];

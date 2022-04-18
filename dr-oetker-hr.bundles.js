@@ -189,8 +189,8 @@ var bundles = {
             "quantity": 1
         },
         {
-            "id": "16c92369c58b4e429f5e77bf3afd2558",
-            "code": "170015513_ROK",
+            "id": "f822c06e5d09442bb74dc5d5e9e4c2ce",
+            "code": "170015513",
             "name": "Dekor Creation Blue",
             "quantity": 1
         },
