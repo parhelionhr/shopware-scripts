@@ -2300,8 +2300,93 @@ var products = [
         "code": "154213110_ROK"
     },
     {
+        "id": "c7778292e63b40ec89dbb8e8654e62a0",
+        "name": "Sweet Zero Kakao muffins",
+        "code": "170007026"
+    },
+    {
         "id": "611101bef0a1421ea78090203444ed52",
         "name": "Okrugli kalup izrazito visokog ruba, 18 cm",
         "code": "170000687"
+    },
+    {
+        "id": "c9133ab6009044f68e5296443ee84e0a",
+        "name": "Riža na mlijeku vanilija",
+        "code": "170007009"
+    },
+    {
+        "id": "882a14f5b4624cdcb1e58b1d1e3a261b",
+        "name": "Riža na mlijeku klasik",
+        "code": "170006978"
+    },
+    {
+        "id": "8aa1c8dba2ea4632ad0fe6335b7e32af",
+        "name": "Šareno pismo",
+        "code": "170015129_ROK"
+    },
+    {
+        "id": "b7dca6ff1fbf431e9dd6f67fd8150120",
+        "name": "Mousse desert tamna čokolada ",
+        "code": "101475500_ROK"
+    },
+    {
+        "id": "49d72eb6c65f49639aecfc53acc917aa",
+        "name": "Mousse desert vanilija",
+        "code": "101476100_ROK"
+    },
+    {
+        "id": "c410b37b6be24c569c2794af9ea7b9a4",
+        "name": "Čokoladne kapi",
+        "code": "101535200_ROK"
+    },
+    {
+        "id": "199bd583af8a47b0bbb780ac3e095536",
+        "name": "Mljeveni bademi",
+        "code": "101565000_ROK"
+    },
+    {
+        "id": "005f745e004d45a387421e2570b86eeb",
+        "name": "Vitalis roasted brusnica",
+        "code": "101655600_ROK"
+    },
+    {
+        "id": "747690403e0c4ba0a3fb27d5e1f590d6",
+        "name": "Fondant Dekor bijeli 1kg",
+        "code": "130011529_ROK"
+    },
+    {
+        "id": "bf956cf8f6bd4727827613469563580f",
+        "name": "Professional Čokoladne mrvice ",
+        "code": "139250074_ROK"
+    },
+    {
+        "id": "0cc8178348cc475c888b6863a4d6d88e",
+        "name": "Prašak za pecivo",
+        "code": "170001190_ROK"
+    },
+    {
+        "id": "6d6dc7c9689c42fd9dfb583ce7585f4f",
+        "name": " Vitalis 7 žitarica orašasto i šumsko voće muesli",
+        "code": "170001408_ROK"
+    },
+    {
+        "id": "39f2f90b891f45baac76c10dd7d7e42f",
+        "name": "Vitalis 7 žitarica voćni muesli",
+        "code": "170001410_ROK"
+    },
+    {
+        "id": "0b6ed0abee02476180f20662d383fdb2",
+        "name": "Desertni preljev Toffee (karamel)",
+        "code": "170005100_ROK"
+    },
+    {
+        "id": "30009980fc41424aaa73d973e2512bbc",
+        "name": "Super kaša s čokoladom i chia sjemenkama 61g",
+        "code": "170006848_ROK"
+    },
+    {
+        "id": "dd7d6fd1ac1f4f508664c40188053d4f",
+        "name": "Kvasac instant",
+        "code": "170011102_ROK"
     }
 ];
