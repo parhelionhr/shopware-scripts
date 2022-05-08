@@ -115,13 +115,13 @@ var bundles = {
         {
             "id": "0e33703f5295474fb8a7caed78c1caff",
             "code": "170001655",
-            "name": "Preljev, svijetli x3",
+            "name": " Preljev - svijetli x3 ",
             "quantity": 1
         },
         {
             "id": "4be092aa5e134d52915065447b824283",
             "code": "170001741",
-            "name": "Želatina u listićima, svijetla",
+            "name": "Želatina u listićima svijetla",
             "quantity": 1
         },
         {
@@ -209,8 +209,8 @@ var bundles = {
             "quantity": 1
         },
         {
-            "id": "918c696460324e28b4bb66cb43a4f9fb",
-            "code": "170002561",
+            "id": "c9133ab6009044f68e5296443ee84e0a",
+            "code": "170007009",
             "name": "Riža na mlijeku vanilija",
             "quantity": 1
         },
@@ -275,7 +275,7 @@ var bundles = {
         {
             "id": "a35ed0e24b0441ef878a741d9ab3567e",
             "code": "170000544",
-            "name": "Knjiga \"Kolači s pudingom\"",
+            "name": "Knjiga 'Kolači s pudingom'",
             "quantity": 1
         },
         {
@@ -549,7 +549,7 @@ var bundles = {
         {
             "id": "1617844ff7074cbe96fb46b3ef04c74f",
             "code": "170000636",
-            "name": "Vintage kutija \"Božićna jelka\"",
+            "name": "Vintage kutija Božićna jelka",
             "quantity": 1
         },
         {
@@ -569,7 +569,7 @@ var bundles = {
         {
             "id": "6c2bfe6ed0cc452e806d3ce2bb571ced",
             "code": "170000614",
-            "name": "Kalup za kuglof, klasični 22 cm",
+            "name": "Kalup za kuglof - klasični 22 cm",
             "quantity": 1
         },
         {
@@ -589,7 +589,7 @@ var bundles = {
         {
             "id": "bf6e7378fcf04363938bbfaa4f06e111",
             "code": "170000615",
-            "name": "Sweet Zero \"Slatka sam\" pamučna vrećica",
+            "name": "Sweet Zero Slatka sam - pamučna vrećica",
             "quantity": 1
         },
         {
@@ -785,7 +785,7 @@ var bundles = {
         {
             "id": "1b2584f5dd3a409fb861c86838fa62c8",
             "code": "170000664",
-            "name": "Lincer modlice \"Uskrsno jaje\", 3 kom",
+            "name": "Lincer modlice Uskrsno jaje - 3 kom",
             "quantity": 1
         },
         {
@@ -853,13 +853,13 @@ var bundles = {
         {
             "id": "c4cb61756bc44db9af55a67ab8c4be7a",
             "code": "170000617",
-            "name": "\"Bake someone happy\" pamučna vrećica",
+            "name": "Bake someone happy - pamučna vrećica",
             "quantity": 1
         },
         {
             "id": "1fac3c1998154f49902abbd3188db20c",
             "code": "170000665",
-            "name": "Veliki okvir za keks \"Veseli zeko\"",
+            "name": "Veliki okvir za keks Veseli zeko",
             "quantity": 1
         },
         {
@@ -885,7 +885,7 @@ var bundles = {
         {
             "id": "773655a6d08242b8946ededb74f9f507",
             "code": "170000670",
-            "name": "Roza četvrtasti kalup retro, 25 cm",
+            "name": "Roza četvrtasti kalup retro 25 cm",
             "quantity": 1
         },
         {
@@ -941,7 +941,7 @@ var bundles = {
         {
             "id": "0bf6e29038f34228b9fb875e11cc6c77",
             "code": "170000663",
-            "name": "Modlice za kekse \"Zečja obitelj\", 3 kom",
+            "name": "Modlice za kekse Zečja obitelj - 3 kom",
             "quantity": 1
         },
         {
@@ -985,13 +985,13 @@ var bundles = {
         {
             "id": "f068ec86bb4a419088ee0e10b6a3ad22",
             "code": "170000667",
-            "name": "Špatula za nadjev retro, drvena drška",
+            "name": "Špatula za nadjev retro - drvena drška",
             "quantity": 1
         },
         {
             "id": "96839ecd59da4757b123a938158ab062",
             "code": "170000618",
-            "name": "\"Homemade\" pamučna vrećica, natur",
+            "name": "Homemade pamučna vrećica - natur",
             "quantity": 1
         }
     ],
@@ -999,25 +999,25 @@ var bundles = {
         {
             "id": "773655a6d08242b8946ededb74f9f507",
             "code": "170000670",
-            "name": "Roza četvrtasti kalup retro, 25 cm",
+            "name": "Roza četvrtasti kalup retro 25 cm",
             "quantity": 1
         },
         {
             "id": "f068ec86bb4a419088ee0e10b6a3ad22",
             "code": "170000667",
-            "name": "Špatula za nadjev retro, drvena drška",
+            "name": "Špatula za nadjev retro - drvena drška",
             "quantity": 1
         },
         {
             "id": "b59bc9e1bea64932858e94f93f1f9796",
             "code": "170000668",
-            "name": "Sito malo retro, drvena drška",
+            "name": "Sito malo retro - drvena drška",
             "quantity": 1
         },
         {
             "id": "80753a6026ce4d7a9bd709257c474a0b",
             "code": "170000669",
-            "name": "Pjenjača 26,5 cm retro, drvena drška",
+            "name": "Pjenjača 26 cm retro - drvena drška",
             "quantity": 1
         }
     ],
@@ -1025,19 +1025,19 @@ var bundles = {
         {
             "id": "f068ec86bb4a419088ee0e10b6a3ad22",
             "code": "170000667",
-            "name": "Špatula za nadjev retro, drvena drška",
+            "name": "Špatula za nadjev retro - drvena drška",
             "quantity": 1
         },
         {
             "id": "b59bc9e1bea64932858e94f93f1f9796",
             "code": "170000668",
-            "name": "Sito malo retro, drvena drška",
+            "name": "Sito malo retro - drvena drška",
             "quantity": 1
         },
         {
             "id": "80753a6026ce4d7a9bd709257c474a0b",
             "code": "170000669",
-            "name": "Pjenjača 26,5 cm retro, drvena drška",
+            "name": "Pjenjača 26 cm retro - drvena drška",
             "quantity": 1
         },
         {

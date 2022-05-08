@@ -101,12 +101,12 @@ var products = [
     },
     {
         "id": "0e33703f5295474fb8a7caed78c1caff",
-        "name": "Preljev, svijetli x3",
+        "name": " Preljev - svijetli x3 ",
         "code": "170001655"
     },
     {
         "id": "d757636eff3c455ca6afab4e0d071d97",
-        "name": "Preljev, crveni x3",
+        "name": "Preljev - crveni x3 ",
         "code": "170001656"
     },
     {
@@ -136,7 +136,7 @@ var products = [
     },
     {
         "id": "4be092aa5e134d52915065447b824283",
-        "name": "Želatina u listićima, svijetla",
+        "name": "Želatina u listićima svijetla",
         "code": "170001741"
     },
     {
@@ -578,6 +578,11 @@ var products = [
         "id": "fc8d2dcebc0240d8aa84feda21e513e4",
         "name": "Super kaša s vanilijom i chia sjemenkama",
         "code": "170005956"
+    },
+    {
+        "id": "4e842d929773436e9538d62bd8977b55",
+        "name": "Posipač za šećer u prahu s poklopcem",
+        "code": "170000688"
     },
     {
         "id": "747d865556e54e32b7e7dcaf27ce2f77",
@@ -1031,7 +1036,7 @@ var products = [
     },
     {
         "id": "f168c328dbc64eaab2a9703190aa637a",
-        "name": "Limena doza \"Kolač uz kavicu\"",
+        "name": "Limena doza 'Kolač uz kavicu'",
         "code": "170000506"
     },
     {
@@ -1046,7 +1051,7 @@ var products = [
     },
     {
         "id": "dba8f7dbfc7f4384bcb6b655f558e7d4",
-        "name": "\"Say Cheese Cake\"  pamučna torba",
+        "name": "'Say Cheese Cake'  pamučna torba",
         "code": "170000509"
     },
     {
@@ -1061,7 +1066,7 @@ var products = [
     },
     {
         "id": "4ba2285da28f44e19d9a97e491210a50",
-        "name": "Set \"Kolač s jagodama\"",
+        "name": "Set 'Kolač s jagodama'",
         "code": "170000528"
     },
     {
@@ -1081,7 +1086,7 @@ var products = [
     },
     {
         "id": "655d218b753a44b5abbebee0f608a781",
-        "name": "Set \"Slatki zeko\"",
+        "name": "Set 'Slatki zeko'",
         "code": "170000529"
     },
     {
@@ -1096,7 +1101,7 @@ var products = [
     },
     {
         "id": "855b683ea88d423f8900a6f4cbf26235",
-        "name": "Set \"Mala torta za velike trenutke\"",
+        "name": "Set 'Mala torta za velike trenutke'",
         "code": "170000530"
     },
     {
@@ -1156,7 +1161,7 @@ var products = [
     },
     {
         "id": "a35ed0e24b0441ef878a741d9ab3567e",
-        "name": "Knjiga \"Kolači s pudingom\"",
+        "name": "Knjiga 'Kolači s pudingom'",
         "code": "170000544"
     },
     {
@@ -1166,23 +1171,23 @@ var products = [
     },
     {
         "id": "1673f8560cb94530b7b73d03d39dba0a",
-        "name": "Čipkasti podmetač za tortu, okrugli 35cm, 15 kom",
+        "name": "Čipkasti podmetač za tortu - okrugli 35cm - 15 kom",
         "code": "170000607"
     },
     {
         "id": "9f1c0df9322d4e51a9a1dac9153522c2",
-        "name": "Čipkasti podmetač za kolače, 20x40 cm, 15 kom",
+        "name": "Čipkasti podmetač za kolače - 20x40 cm - 15 kom",
         "code": "170000608"
     },
     {
         "id": "6597848551194924986510756538075a",
-        "name": "Vrč za topljenje čokolade, silikonski",
+        "name": "Vrč za topljenje čokolade - silikonski",
         "code": "170000609"
     },
     {
         "id": "7c95c8ba1f2147758d3c4e5bb4ce7590",
-        "name": "Dugotrajna podloga za pečenje, 2 kom",
-        "code": "170000546"
+        "name": "Dugotrajna podloga za pečenje 2 kom",
+        "code": "170000691"
     },
     {
         "id": "ad63cbdb540546469e5d13b4e0b901f5",
@@ -1291,7 +1296,7 @@ var products = [
     },
     {
         "id": "afe54b5d1610416dadee41a9cb416855",
-        "name": "Čaša \"to-go\" za žitarice i jogurt",
+        "name": "Čaša 'to-go' za žitarice i jogurt",
         "code": "170000552"
     },
     {
@@ -1411,7 +1416,7 @@ var products = [
     },
     {
         "id": "9a4fa26c2147401fa2add1e1d32156cc",
-        "name": "Papirnati kalup za pečenje \"Mini\" 10 kom",
+        "name": "Papirnati kalup za pečenje 'Mini' 10 kom",
         "code": "170000572"
     },
     {
@@ -1561,7 +1566,7 @@ var products = [
     },
     {
         "id": "6c2bfe6ed0cc452e806d3ce2bb571ced",
-        "name": "Kalup za kuglof, klasični 22 cm",
+        "name": "Kalup za kuglof - klasični 22 cm",
         "code": "170000614"
     },
     {
@@ -1651,47 +1656,47 @@ var products = [
     },
     {
         "id": "76d6c8b4f10048a081123ffd0709d0d1",
-        "name": "Modlice za kekse Božić, 8 motiva",
+        "name": "Modlice za kekse Božić - 8 motiva",
         "code": "170000619"
     },
     {
         "id": "0d5630da92da467fbb205e9cf5ebbde1",
-        "name": "Modlice za kekse u obliku čovječuljka, 3 vel.",
+        "name": "Modlice za kekse u obliku čovječuljka - 3 vel",
         "code": "170000620"
     },
     {
         "id": "6efb1e2e00754a6c959c93bd1ef63efd",
-        "name": "Modlice za kekse, zvijezda, 6 vel.",
+        "name": "Modlice za kekse zvijezda - 6 vel",
         "code": "170000621"
     },
     {
         "id": "494f22b76ec449e9a7850d83f66fbec2",
-        "name": "Modlice za kekse u obliku jelke, 3 vel.",
+        "name": "Modlice za kekse u obliku jelke - 3 vel",
         "code": "170000622"
     },
     {
         "id": "e1af21499b2045268207cee50036181f",
-        "name": "Modlice za linzere, 5 kom",
+        "name": "Modlice za linzere - 5 kom",
         "code": "170000623"
     },
     {
         "id": "c56a59dd0c02492882bede0a7e09eda7",
-        "name": "Pečat za kekse, 3 otiska",
+        "name": "Pečat za kekse - 3 otiska",
         "code": "170000624"
     },
     {
         "id": "2212d5eee0354a68bb3b8776bff06cc3",
-        "name": "Dizajnerski kalup za kuglof \"Floral\" Ø24 ",
+        "name": "Dizajnerski kalup za kuglof Floral Ø24 ",
         "code": "170000625"
     },
     {
         "id": "655357a3fbba4fd9a87e4fe21997e9a8",
-        "name": "Dizajnerski kalup za kuglof \"Twist\" Ø22",
+        "name": "Dizajnerski kalup za kuglof Twist Ø22",
         "code": "170000626"
     },
     {
         "id": "c413ebf4735646919feb83b3025ffb2b",
-        "name": "Kist za kolače, drvena ručka 20,5 cm",
+        "name": "Kist za kolače - drvena ručka 20 cm",
         "code": "170000633"
     },
     {
@@ -1706,7 +1711,7 @@ var products = [
     },
     {
         "id": "65a4c73d67d942f9a2ce18ba861f7ede",
-        "name": "Kist za kolače, drvena ručka 20,5 cm-gratis",
+        "name": "Kist za kolače - drvena ručka 20 cm-gratis",
         "code": "170000628"
     },
     {
@@ -1731,22 +1736,22 @@ var products = [
     },
     {
         "id": "bf6e7378fcf04363938bbfaa4f06e111",
-        "name": "Sweet Zero \"Slatka sam\" pamučna vrećica",
+        "name": "Sweet Zero Slatka sam - pamučna vrećica",
         "code": "170000615"
     },
     {
         "id": "d399ac79f0e44bec83452b5cb382fa4d",
-        "name": "\"Love my cake\" pamučna vrećica",
+        "name": "Love my cake - pamučna vrećica",
         "code": "170000616"
     },
     {
         "id": "c4cb61756bc44db9af55a67ab8c4be7a",
-        "name": "\"Bake someone happy\" pamučna vrećica",
+        "name": "Bake someone happy - pamučna vrećica",
         "code": "170000617"
     },
     {
         "id": "96839ecd59da4757b123a938158ab062",
-        "name": "\"Homemade\" pamučna vrećica, natur",
+        "name": "Homemade pamučna vrećica - natur",
         "code": "170000618"
     },
     {
@@ -1756,12 +1761,12 @@ var products = [
     },
     {
         "id": "350283f5121e40d48aa7fcfaa781f82f",
-        "name": "Poklon vrećice Srce s vezicom, 16kom",
+        "name": "Poklon vrećice Srce s vezicom - 16kom",
         "code": "170000635"
     },
     {
         "id": "1617844ff7074cbe96fb46b3ef04c74f",
-        "name": "Vintage kutija \"Božićna jelka\"",
+        "name": "Vintage kutija Božićna jelka",
         "code": "170000636"
     },
     {
@@ -1786,7 +1791,7 @@ var products = [
     },
     {
         "id": "f6112cdf82d048d8b07c30a646e8da84",
-        "name": "Punjena kutija \"Dodaci za kekse i kolače\"",
+        "name": "Punjena kutija Dodaci za kekse i kolače",
         "code": "170000598"
     },
     {
@@ -1801,7 +1806,7 @@ var products = [
     },
     {
         "id": "a60001bf774f4a6d9b865624fc13665e",
-        "name": "Punjena kutija \"Pod bor\"",
+        "name": "Punjena kutija Pod bor",
         "code": "170000641"
     },
     {
@@ -1811,7 +1816,7 @@ var products = [
     },
     {
         "id": "e3454c903f114fa8976acd55e16ff3a7",
-        "name": "Poklon set \"Sweet Zero\"",
+        "name": "Poklon set Sweet Zero",
         "code": "170000642"
     },
     {
@@ -1821,7 +1826,7 @@ var products = [
     },
     {
         "id": "997699262f5647398bc4e0344cdd779a",
-        "name": "Rezervne vrećice za ukrašavanje, 30 kom",
+        "name": "Rezervne vrećice za ukrašavanje - 30 kom",
         "code": "170000649"
     },
     {
@@ -1831,7 +1836,7 @@ var products = [
     },
     {
         "id": "e58adbeb15d448bea540601441dd6ccb",
-        "name": "Bake & Go pekač s poklopcem, 29x42 cm",
+        "name": "Bake & Go pekač s poklopcem 29x42 cm",
         "code": "170000651"
     },
     {
@@ -1996,37 +2001,37 @@ var products = [
     },
     {
         "id": "ef64a76db8444856b764f79cc89b4ea1",
-        "name": "Kalup u obliku janjeta, dvodjelni",
+        "name": "Kalup u obliku janjeta - dvodjelni",
         "code": "170000659"
     },
     {
         "id": "e3cdbe70ea8048a385dfabcf6710ec9d",
-        "name": "Kartonska kutija za praline srce, 2 kom",
+        "name": "Kartonska kutija za praline srce - 2 kom",
         "code": "170000660"
     },
     {
         "id": "f8d1334ab0a0481690c20ca57912e44d",
-        "name": "Srce kartice za označavanje zimnice, 8\/1",
+        "name": "Srce kartice za označavanje zimnice - 8\/1",
         "code": "170000661"
     },
     {
         "id": "7d5b5cd1683d4f80a8af0fb5e0cdce41",
-        "name": "Kartica srce za poruku, srce 8\/1 - promo",
+        "name": "Kartica srce za poruku - srce 8\/1 - promo",
         "code": "170000662"
     },
     {
         "id": "0bf6e29038f34228b9fb875e11cc6c77",
-        "name": "Modlice za kekse \"Zečja obitelj\", 3 kom",
+        "name": "Modlice za kekse Zečja obitelj - 3 kom",
         "code": "170000663"
     },
     {
         "id": "1b2584f5dd3a409fb861c86838fa62c8",
-        "name": "Lincer modlice \"Uskrsno jaje\", 3 kom",
+        "name": "Lincer modlice Uskrsno jaje - 3 kom",
         "code": "170000664"
     },
     {
         "id": "1fac3c1998154f49902abbd3188db20c",
-        "name": "Veliki okvir za keks \"Veseli zeko\"",
+        "name": "Veliki okvir za keks Veseli zeko",
         "code": "170000665"
     },
     {
@@ -2056,7 +2061,7 @@ var products = [
     },
     {
         "id": "f068ec86bb4a419088ee0e10b6a3ad22",
-        "name": "Špatula za nadjev retro, drvena drška",
+        "name": "Špatula za nadjev retro - drvena drška",
         "code": "170000667"
     },
     {
@@ -2126,7 +2131,7 @@ var products = [
     },
     {
         "id": "316ea862c97149e2a32ceae0b861c06a",
-        "name": "Posuda za topljenje čokolade, nehrđajući čelik",
+        "name": "Posuda za topljenje čokolade - nehrđajući čelik",
         "code": "170000627"
     },
     {
@@ -2141,23 +2146,23 @@ var products = [
     },
     {
         "id": "b59bc9e1bea64932858e94f93f1f9796",
-        "name": "Sito malo retro, drvena drška",
+        "name": "Sito malo retro - drvena drška",
         "code": "170000668"
     },
     {
         "id": "80753a6026ce4d7a9bd709257c474a0b",
-        "name": "Pjenjača 26,5 cm retro, drvena drška",
+        "name": "Pjenjača 26 cm retro - drvena drška",
         "code": "170000669"
     },
     {
         "id": "773655a6d08242b8946ededb74f9f507",
-        "name": "Roza četvrtasti kalup retro, 25 cm",
+        "name": "Roza četvrtasti kalup retro 25 cm",
         "code": "170000670"
     },
     {
         "id": "f980d7c075674d018242e60b29b8e286",
         "name": "Dr. Oetker Anđeo kutija za kolače",
-        "code": "170007163-neispravno"
+        "code": "170007163-N"
     },
     {
         "id": "54d3fe48d0604ddda1306610f4aeea63",
@@ -2306,7 +2311,7 @@ var products = [
     },
     {
         "id": "611101bef0a1421ea78090203444ed52",
-        "name": "Okrugli kalup izrazito visokog ruba, 18 cm",
+        "name": "Okrugli kalup izrazito visokog ruba 18 cm",
         "code": "170000687"
     },
     {
@@ -2388,5 +2393,40 @@ var products = [
         "id": "dd7d6fd1ac1f4f508664c40188053d4f",
         "name": "Kvasac instant",
         "code": "170011102_ROK"
+    },
+    {
+        "id": "485c6396513c454c851be7c2e2338ec9",
+        "name": "Set ukrasa za poklopce + gumice 24kom",
+        "code": "170000689"
+    },
+    {
+        "id": "6ccf5d25e0134529b6cd8579569343ae",
+        "name": "Izbacivač koštica za šljive - zeleni 15cm",
+        "code": "170000690"
+    },
+    {
+        "id": "67916c33558a42cf86ea51d660fd40e7",
+        "name": "Hrskavi čokoladni muesli s manje šećera",
+        "code": "101655900"
+    },
+    {
+        "id": "23372c3e6b1c4bb1b5b384cf1cd66ccc",
+        "name": "Hrskavi malina muesli s manje šećera",
+        "code": "101662700"
+    },
+    {
+        "id": "89d0f8c2d2ce4a1094abeff0f364bd52",
+        "name": "Staklenke za zimnicu - komplet 6 kom",
+        "code": "170000679"
+    },
+    {
+        "id": "d13d25c73f4a4f33ac1ce6d42a89a294",
+        "name": "Rashladna torba siva - promo",
+        "code": "170000685"
+    },
+    {
+        "id": "5b531c9ef83441c1899aa56d7fc9b0e1",
+        "name": "Rashladna torba plava",
+        "code": "170000686"
     }
 ];
