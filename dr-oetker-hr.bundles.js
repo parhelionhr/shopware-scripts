@@ -203,8 +203,8 @@ var bundles = {
     ],
     "170000543": [
         {
-            "id": "483b86156b154876852630d72ab9c050",
-            "code": "170002560",
+            "id": "882a14f5b4624cdcb1e58b1d1e3a261b",
+            "code": "170006978",
             "name": "Riža na mlijeku klasik",
             "quantity": 1
         },
@@ -699,26 +699,6 @@ var bundles = {
             "quantity": 1
         }
     ],
-    "170000540": [
-        {
-            "id": "fa74af0c16d742209ecaecf130382b4b",
-            "code": "170000533",
-            "name": "Retro roza kuhinjska rukavica ",
-            "quantity": 1
-        },
-        {
-            "id": "d2a3e2b974bd41008b92d12a8f35211f",
-            "code": "170005396",
-            "name": "Mini Muffins",
-            "quantity": 1
-        },
-        {
-            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
-            "code": "101526000",
-            "name": "Svjećice Happy Birthday",
-            "quantity": 1
-        }
-    ],
     "170000671": [
         {
             "id": "681a1fce296a44ca8226012431ac1118",
@@ -1044,6 +1024,64 @@ var bundles = {
             "id": "672a65983b7d4d5a9f63b86c425cd55b",
             "code": "170000591",
             "name": "Kutija za kekse Nostalgija",
+            "quantity": 1
+        }
+    ],
+    "170000693": [
+        {
+            "id": "4817d51b8b7d49449b4d36ee830c4982",
+            "code": "170000527",
+            "name": "Retro okrugli kalup Ø20 cm",
+            "quantity": 1
+        },
+        {
+            "id": "18dee41bfd664c77b994cff325f4fb72",
+            "code": "170001190",
+            "name": "Prašak za pecivo",
+            "quantity": 1
+        },
+        {
+            "id": "681a1fce296a44ca8226012431ac1118",
+            "code": "170006725",
+            "name": "Vanilin šećer 5+1",
+            "quantity": 1
+        },
+        {
+            "id": "eee84b97603f4dbcb1fef0afa6fb701d",
+            "code": "170002122",
+            "name": "Kremfix x3",
+            "quantity": 1
+        },
+        {
+            "id": "7199edebae4841be81830310489d288b",
+            "code": "170005483",
+            "name": "Ukrasni cvjetići",
+            "quantity": 1
+        },
+        {
+            "id": "106bf1baa7b24cd38ec79de84d885e05",
+            "code": "170000693_recept",
+            "name": "Set Kolač od mrkve-recept",
+            "quantity": 1
+        }
+    ],
+    "170000540": [
+        {
+            "id": "fa74af0c16d742209ecaecf130382b4b",
+            "code": "170000533",
+            "name": "Retro roza kuhinjska rukavica ",
+            "quantity": 1
+        },
+        {
+            "id": "d2a3e2b974bd41008b92d12a8f35211f",
+            "code": "170005396",
+            "name": "Mini Muffins",
+            "quantity": 1
+        },
+        {
+            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
+            "code": "101526000",
+            "name": "Svjećice Happy Birthday",
             "quantity": 1
         }
     ]

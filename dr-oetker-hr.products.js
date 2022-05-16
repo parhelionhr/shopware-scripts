@@ -410,11 +410,6 @@ var products = [
         "code": "170006064"
     },
     {
-        "id": "46dc5d3534424a45bb25368af518465b",
-        "name": "Special Puding za jaffa kolač ",
-        "code": "170006063"
-    },
-    {
         "id": "76746cf95d4144bab4bf8af32fc1ac0e",
         "name": "Special Puding za cheesecake",
         "code": "170006303"
@@ -580,11 +575,6 @@ var products = [
         "code": "170005956"
     },
     {
-        "id": "4e842d929773436e9538d62bd8977b55",
-        "name": "Posipač za šećer u prahu s poklopcem",
-        "code": "170000688"
-    },
-    {
         "id": "747d865556e54e32b7e7dcaf27ce2f77",
         "name": "Super kaša s malinom i chia sjemenkama",
         "code": "170006051"
@@ -608,11 +598,6 @@ var products = [
         "id": "b8715b3d0b7f48b8ab685c7d07298dc4",
         "name": "Super kaša multipack s  vanilijom 4x50g",
         "code": "170006173"
-    },
-    {
-        "id": "924f107cd60240bcbf17c947e4728676",
-        "name": "Super kaša Plus s tamnom čokoladom",
-        "code": "170006404"
     },
     {
         "id": "636af2612b274b93b720b8ace827c75a",
@@ -1720,11 +1705,6 @@ var products = [
         "code": "170000590"
     },
     {
-        "id": "672a65983b7d4d5a9f63b86c425cd55b",
-        "name": "Kutija za kekse Nostalgija",
-        "code": "170000591"
-    },
-    {
         "id": "8b885edfb26b44739110ec659e2d2e11",
         "name": "Kutija za kekse Čipka",
         "code": "170000592"
@@ -2045,6 +2025,11 @@ var products = [
         "code": "101535500_ROK"
     },
     {
+        "id": "77b60b64523b4289a9fc9711067dd5f4",
+        "name": "Vitalis roasted čoko-lješnjak ",
+        "code": "101655500_ROK"
+    },
+    {
         "id": "fd23f476d44c41d7a59545052176c2af",
         "name": "Mini Muffins",
         "code": "170005396_ROK"
@@ -2058,11 +2043,6 @@ var products = [
         "id": "3558006505ff499096a0d785555e1a28",
         "name": "Američke palačinke s proteinima",
         "code": "170006534_ROK"
-    },
-    {
-        "id": "f068ec86bb4a419088ee0e10b6a3ad22",
-        "name": "Špatula za nadjev retro - drvena drška",
-        "code": "170000667"
     },
     {
         "id": "283e542af0b04d8c8cc009599d9f46b8",
@@ -2085,64 +2065,9 @@ var products = [
         "code": "170000666"
     },
     {
-        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
-        "name": "Galetta čokolada",
-        "code": "170001246"
-    },
-    {
-        "id": "237d54dcd8ef453d8a0ed6fadc7649a3",
-        "name": "Choco lava muffins",
-        "code": "170006402"
-    },
-    {
-        "id": "839c9c3a7e9647d7924835671bd30851",
-        "name": "Muffins",
-        "code": "170003780"
-    },
-    {
-        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
-        "name": "Gluten Free Palačinke",
-        "code": "170006229"
-    },
-    {
-        "id": "126fda0e0305482d999fcd9b5bb08eeb",
-        "name": "Vitalis hrskave badem pahuljice",
-        "code": "170016428"
-    },
-    {
-        "id": "74cb833aa52f4201bb7ef010cc877d24",
-        "name": "Vitalis Muesli tamna čokolada",
-        "code": "170006426"
-    },
-    {
-        "id": "82fbd85ac0b3495db0ef51d450350f50",
-        "name": "Vitalis 7 žitarica voćni muesli",
-        "code": "170001410"
-    },
-    {
-        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
-        "name": "Set \"Party paketić\"",
-        "code": "170000540"
-    },
-    {
-        "id": "79abd47f86b943d4812f0d4aa8a3e06e",
-        "name": "Professional Šarene mrvice",
-        "code": "139252308"
-    },
-    {
-        "id": "316ea862c97149e2a32ceae0b861c06a",
-        "name": "Posuda za topljenje čokolade - nehrđajući čelik",
-        "code": "170000627"
-    },
-    {
-        "id": "69a913fd56804046af40c406248cc345",
-        "name": "Vanilija cake mix",
-        "code": "170006850_ROK"
-    },
-    {
-        "id": "77b60b64523b4289a9fc9711067dd5f4",
-        "name": "Vitalis roasted čoko-lješnjak ",
-        "code": "101655500_ROK"
+        "id": "f068ec86bb4a419088ee0e10b6a3ad22",
+        "name": "Špatula za nadjev retro - drvena drška",
+        "code": "170000667"
     },
     {
         "id": "b59bc9e1bea64932858e94f93f1f9796",
@@ -2158,16 +2083,6 @@ var products = [
         "id": "773655a6d08242b8946ededb74f9f507",
         "name": "Roza četvrtasti kalup retro 25 cm",
         "code": "170000670"
-    },
-    {
-        "id": "f980d7c075674d018242e60b29b8e286",
-        "name": "Dr. Oetker Anđeo kutija za kolače",
-        "code": "170007163-N"
-    },
-    {
-        "id": "54d3fe48d0604ddda1306610f4aeea63",
-        "name": "Superkaša XXL čokolada",
-        "code": "170006967_ROK"
     },
     {
         "id": "ccd78e9844b94bc1a2f06c3c5681fbdf",
@@ -2208,6 +2123,11 @@ var products = [
         "id": "0bb376e35a6c4b36a125bd5a703b5608",
         "name": "Poklon set Nostalgija",
         "code": "170000678"
+    },
+    {
+        "id": "f980d7c075674d018242e60b29b8e286",
+        "name": "Dr. Oetker Anđeo kutija za kolače",
+        "code": "170007163-N"
     },
     {
         "id": "dc19fecc938241c6bdbebf76a57492cf",
@@ -2305,14 +2225,14 @@ var products = [
         "code": "154213110_ROK"
     },
     {
-        "id": "c7778292e63b40ec89dbb8e8654e62a0",
-        "name": "Sweet Zero Kakao muffins",
-        "code": "170007026"
-    },
-    {
         "id": "611101bef0a1421ea78090203444ed52",
         "name": "Okrugli kalup izrazito visokog ruba 18 cm",
         "code": "170000687"
+    },
+    {
+        "id": "c7778292e63b40ec89dbb8e8654e62a0",
+        "name": "Sweet Zero Kakao muffins",
+        "code": "170007026"
     },
     {
         "id": "c9133ab6009044f68e5296443ee84e0a",
@@ -2395,6 +2315,11 @@ var products = [
         "code": "170011102_ROK"
     },
     {
+        "id": "4e842d929773436e9538d62bd8977b55",
+        "name": "Posipač za šećer u prahu s poklopcem",
+        "code": "170000688"
+    },
+    {
         "id": "485c6396513c454c851be7c2e2338ec9",
         "name": "Set ukrasa za poklopce + gumice 24kom",
         "code": "170000689"
@@ -2428,5 +2353,90 @@ var products = [
         "id": "5b531c9ef83441c1899aa56d7fc9b0e1",
         "name": "Rashladna torba plava",
         "code": "170000686"
+    },
+    {
+        "id": "8b1b90d0ec46491883ce850173bd1a50",
+        "name": "Set 'Biskvitna torta s jagodama'",
+        "code": "170000693"
+    },
+    {
+        "id": "106bf1baa7b24cd38ec79de84d885e05",
+        "name": "Set Kolač od mrkve-recept",
+        "code": "170000693_recept"
+    },
+    {
+        "id": "46dc5d3534424a45bb25368af518465b",
+        "name": "Special Puding za jaffa kolač ",
+        "code": "170006063"
+    },
+    {
+        "id": "63bbbdc93db244e3ae1bcc6f4897bac0",
+        "name": "Galetta čokolada",
+        "code": "170001246"
+    },
+    {
+        "id": "237d54dcd8ef453d8a0ed6fadc7649a3",
+        "name": "Choco lava muffins",
+        "code": "170006402"
+    },
+    {
+        "id": "839c9c3a7e9647d7924835671bd30851",
+        "name": "Muffins",
+        "code": "170003780"
+    },
+    {
+        "id": "924f107cd60240bcbf17c947e4728676",
+        "name": "Super kaša Plus s tamnom čokoladom",
+        "code": "170006404"
+    },
+    {
+        "id": "49f6d5733b7a4a418f5c6b757e5dd113",
+        "name": "Gluten Free Palačinke",
+        "code": "170006229"
+    },
+    {
+        "id": "126fda0e0305482d999fcd9b5bb08eeb",
+        "name": "Vitalis hrskave badem pahuljice",
+        "code": "170016428"
+    },
+    {
+        "id": "74cb833aa52f4201bb7ef010cc877d24",
+        "name": "Vitalis Muesli tamna čokolada",
+        "code": "170006426"
+    },
+    {
+        "id": "82fbd85ac0b3495db0ef51d450350f50",
+        "name": "Vitalis 7 žitarica voćni muesli",
+        "code": "170001410"
+    },
+    {
+        "id": "635edd97f2664ba8b9f1dc13a3f0030c",
+        "name": "Set \"Party paketić\"",
+        "code": "170000540"
+    },
+    {
+        "id": "79abd47f86b943d4812f0d4aa8a3e06e",
+        "name": "Professional Šarene mrvice",
+        "code": "139252308"
+    },
+    {
+        "id": "316ea862c97149e2a32ceae0b861c06a",
+        "name": "Posuda za topljenje čokolade - nehrđajući čelik",
+        "code": "170000627"
+    },
+    {
+        "id": "672a65983b7d4d5a9f63b86c425cd55b",
+        "name": "Kutija za kekse Nostalgija",
+        "code": "170000591"
+    },
+    {
+        "id": "69a913fd56804046af40c406248cc345",
+        "name": "Vanilija cake mix",
+        "code": "170006850_ROK"
+    },
+    {
+        "id": "54d3fe48d0604ddda1306610f4aeea63",
+        "name": "Superkaša XXL čokolada",
+        "code": "170006967_ROK"
     }
 ];
