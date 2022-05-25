@@ -1061,7 +1061,7 @@ var bundles = {
         {
             "id": "106bf1baa7b24cd38ec79de84d885e05",
             "code": "170000693_recept",
-            "name": "Set Kolač od mrkve-recept",
+            "name": "Set Biskvitna torta s jagodama- recept",
             "quantity": 1
         }
     ],
@@ -1082,6 +1082,128 @@ var bundles = {
             "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
             "code": "101526000",
             "name": "Svjećice Happy Birthday",
+            "quantity": 1
+        }
+    ],
+    "170000697": [
+        {
+            "id": "754c6a8ee2514f69840c4291de155384",
+            "code": "101730100",
+            "name": "Extra Želirni šećer 2:1",
+            "quantity": 1
+        },
+        {
+            "id": "c59cefd069274e9f8e0a0a0c34d5a594",
+            "code": "101731200",
+            "name": "Stevia Želirni šećer",
+            "quantity": 1
+        },
+        {
+            "id": "0ecce01c44e04c5c93fb2f3a48dbce05",
+            "code": "170025284",
+            "name": "Citronka special za bazgin sirup",
+            "quantity": 1
+        },
+        {
+            "id": "e016e02d45324ee298164062f98cfeb3",
+            "code": "170001233",
+            "name": "Limunska kiselina",
+            "quantity": 3
+        },
+        {
+            "id": "1f8c1d2115a24e578524e1755538c772",
+            "code": "170011556",
+            "name": "Džemfix Classic 1:1",
+            "quantity": 1
+        },
+        {
+            "id": "8d063646463e41a582f99f411b4ec824",
+            "code": "170015082",
+            "name": "Džemfix Super 3:1",
+            "quantity": 1
+        },
+        {
+            "id": "916feb9314de4bdda87a678ac0098cff",
+            "code": "170001158",
+            "name": "Pikant Fix kiseli",
+            "quantity": 1
+        },
+        {
+            "id": "aae922dd2f99452d86702164d5941b92",
+            "code": "170000535",
+            "name": "Samoljepljive etikete za staklenke, 16 kom",
+            "quantity": 1
+        }
+    ],
+    "170000698": [
+        {
+            "id": "754c6a8ee2514f69840c4291de155384",
+            "code": "101730100",
+            "name": "Extra Želirni šećer 2:1",
+            "quantity": 6
+        }
+    ],
+    "170000699": [
+        {
+            "id": "c59cefd069274e9f8e0a0a0c34d5a594",
+            "code": "101731200",
+            "name": "Stevia Želirni šećer",
+            "quantity": 1
+        },
+        {
+            "id": "e016e02d45324ee298164062f98cfeb3",
+            "code": "170001233",
+            "name": "Limunska kiselina",
+            "quantity": 1
+        },
+        {
+            "id": "89d0f8c2d2ce4a1094abeff0f364bd52",
+            "code": "170000679",
+            "name": "Staklenke za zimnicu - komplet 6 kom",
+            "quantity": 1
+        },
+        {
+            "id": "b3796288985e47e8b29bf3598a5b71b0",
+            "code": "170000534",
+            "name": "Zlatni marker za staklenke",
+            "quantity": 1
+        }
+    ],
+    "170000700": [
+        {
+            "id": "684ef51b325b4cf2ada1236a72a3d9a4",
+            "code": "170011234",
+            "name": "Džemfix Extra 2:1",
+            "quantity": 3
+        },
+        {
+            "id": "8d063646463e41a582f99f411b4ec824",
+            "code": "170015082",
+            "name": "Džemfix Super 3:1",
+            "quantity": 3
+        },
+        {
+            "id": "2444808dd9e7499ebbb5448285ad1fc9",
+            "code": "170006950",
+            "name": "Džemfix Extra 4:1",
+            "quantity": 3
+        },
+        {
+            "id": "e016e02d45324ee298164062f98cfeb3",
+            "code": "170001233",
+            "name": "Limunska kiselina",
+            "quantity": 5
+        },
+        {
+            "id": "485c6396513c454c851be7c2e2338ec9",
+            "code": "170000689",
+            "name": "Set ukrasa za poklopce + gumice 24kom",
+            "quantity": 2
+        },
+        {
+            "id": "92b73a625ff44897883ac85e91f3ecf6",
+            "code": "170000695",
+            "name": "Marker za staklenke, bijeli ",
             "quantity": 1
         }
     ]
