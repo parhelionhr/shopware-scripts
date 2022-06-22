@@ -360,11 +360,6 @@ var products = [
         "code": "101565000"
     },
     {
-        "id": "348820e438ec4ec5b9e03b18c4255e1a",
-        "name": "Vitalis schoko keks",
-        "code": "101658600_ROK"
-    },
-    {
         "id": "7e4ccea6887f4f1ab8b222eba2b7ca52",
         "name": "Puding čokolada",
         "code": "170001235"
@@ -1560,11 +1555,6 @@ var products = [
         "code": "170000614"
     },
     {
-        "id": "4499cdaf2761447c83b88dd3a17bed4f",
-        "name": "Pastelno šećerno pismo",
-        "code": "101529800"
-    },
-    {
         "id": "ccc4c5f64b0f423e8cf04393f73f6970",
         "name": "Glazura za kolače u lončiću, tamna",
         "code": "101540800"
@@ -2290,6 +2280,11 @@ var products = [
         "code": "139250074_ROK"
     },
     {
+        "id": "cbc2bdd24d4d4fc3961767e261ccbf29",
+        "name": "Pastelno šećerno pismo",
+        "code": "101529800_ROK"
+    },
+    {
         "id": "0cc8178348cc475c888b6863a4d6d88e",
         "name": "Prašak za pecivo",
         "code": "170001190_ROK"
@@ -2308,11 +2303,6 @@ var products = [
         "id": "0b6ed0abee02476180f20662d383fdb2",
         "name": "Desertni preljev Toffee (karamel)",
         "code": "170005100_ROK"
-    },
-    {
-        "id": "a597c42cd24240b4b8815da9b64281af",
-        "name": "Posuda za miješanje 3,2L",
-        "code": "170000694"
     },
     {
         "id": "30009980fc41424aaa73d973e2512bbc",
@@ -2375,6 +2365,81 @@ var products = [
         "code": "170000693_recept"
     },
     {
+        "id": "a597c42cd24240b4b8815da9b64281af",
+        "name": "Posuda za miješanje 3,2L",
+        "code": "170000694"
+    },
+    {
+        "id": "94cf8e3929bc48a8bc125eb4b5e76915",
+        "name": "Lijevak uski sa sitom ",
+        "code": "170000696"
+    },
+    {
+        "id": "de8d8ab77e584a458189d9111e4250c2",
+        "name": "Zimnica set 'Sve što ti treba'",
+        "code": "170000697"
+    },
+    {
+        "id": "d0448b57e20c4f879d70dbf8452c30f4",
+        "name": "Set Želirni šećer 2:1 5+1 gratis",
+        "code": "170000698"
+    },
+    {
+        "id": "0773562fbcb9490380ca8ff6f4e67c9b",
+        "name": "Set \"Domaći džem može svatko\"",
+        "code": "170000699"
+    },
+    {
+        "id": "bf847ee84b4d4afea3f4c47843f1b479",
+        "name": "Paket za 10 kg voća",
+        "code": "170000700"
+    },
+    {
+        "id": "348820e438ec4ec5b9e03b18c4255e1a",
+        "name": "Vitalis schoko keks",
+        "code": "101658600_ROK"
+    },
+    {
+        "id": "50eec2f6f2564a66a4125c452db7c170",
+        "name": "Puding jagoda x3",
+        "code": "170002064_ROK"
+    },
+    {
+        "id": "0652b5842d2744d2bedfa44fc9d7bbd9",
+        "name": "Zelena boja za kolače",
+        "code": "170005954_ROK"
+    },
+    {
+        "id": "1ff7d7ecea2f4c869bdee00dc21abb4d",
+        "name": "Special Puding za jaffa kolač ",
+        "code": "170006063_ROK"
+    },
+    {
+        "id": "a6ca1144e91749c2bda707574a640f61",
+        "name": "Special Puding za mađaricu ",
+        "code": "170006064_ROK"
+    },
+    {
+        "id": "67842b9c9a1f47fbbc88c330bb0404a2",
+        "name": "Special Puding za cheesecake",
+        "code": "170006303_ROK"
+    },
+    {
+        "id": "0b2443ffa2284dc7bf3e23b7dcb6ed5d",
+        "name": "Dekor mix zvjezdice",
+        "code": "170015517_ROK"
+    },
+    {
+        "id": "8770747eacac4c53be9a644ebf3299eb",
+        "name": "Sladki prah šećer u prahu 200g",
+        "code": "170017032_ROK"
+    },
+    {
+        "id": "2345d53541c740d5b55ceafe1347895a",
+        "name": "Set domaći džem -recept",
+        "code": "170000699_recept"
+    },
+    {
         "id": "46dc5d3534424a45bb25368af518465b",
         "name": "Special Puding za jaffa kolač ",
         "code": "170006063"
@@ -2430,6 +2495,11 @@ var products = [
         "code": "139252308"
     },
     {
+        "id": "4499cdaf2761447c83b88dd3a17bed4f",
+        "name": "Pastelno šećerno pismo",
+        "code": "101529800"
+    },
+    {
         "id": "316ea862c97149e2a32ceae0b861c06a",
         "name": "Posuda za topljenje čokolade - nehrđajući čelik",
         "code": "170000627"
@@ -2455,68 +2525,88 @@ var products = [
         "code": "170000695"
     },
     {
-        "id": "94cf8e3929bc48a8bc125eb4b5e76915",
-        "name": "Lijevak uski sa sitom ",
-        "code": "170000696"
-    },
-    {
-        "id": "de8d8ab77e584a458189d9111e4250c2",
-        "name": "Zimnica set 'Sve što ti treba'",
-        "code": "170000697"
-    },
-    {
-        "id": "d0448b57e20c4f879d70dbf8452c30f4",
-        "name": "Set Želirni šećer 2:1 5+1 gratis",
-        "code": "170000698"
-    },
-    {
-        "id": "0773562fbcb9490380ca8ff6f4e67c9b",
-        "name": "Set \"Domaći džem može svatko\"",
-        "code": "170000699"
-    },
-    {
-        "id": "bf847ee84b4d4afea3f4c47843f1b479",
-        "name": "Paket za 10 kg voća",
-        "code": "170000700"
-    },
-    {
-        "id": "50eec2f6f2564a66a4125c452db7c170",
-        "name": "Puding jagoda x3",
-        "code": "170002064_ROK"
-    },
-    {
-        "id": "0652b5842d2744d2bedfa44fc9d7bbd9",
-        "name": "Zelena boja za kolače",
-        "code": "170005954_ROK"
-    },
-    {
-        "id": "1ff7d7ecea2f4c869bdee00dc21abb4d",
-        "name": "Special Puding za jaffa kolač ",
-        "code": "170006063_ROK"
-    },
-    {
-        "id": "a6ca1144e91749c2bda707574a640f61",
-        "name": "Special Puding za mađaricu ",
-        "code": "170006064_ROK"
-    },
-    {
-        "id": "67842b9c9a1f47fbbc88c330bb0404a2",
-        "name": "Special Puding za cheesecake",
-        "code": "170006303_ROK"
-    },
-    {
-        "id": "0b2443ffa2284dc7bf3e23b7dcb6ed5d",
-        "name": "Dekor mix zvjezdice",
-        "code": "170015517_ROK"
-    },
-    {
-        "id": "8770747eacac4c53be9a644ebf3299eb",
-        "name": "Sladki prah šećer u prahu 200g",
-        "code": "170017032_ROK"
-    },
-    {
         "id": "310d9b9c84ac498fac80d38fe63e6a32",
         "name": "Dekor mix perle soft",
         "code": "170025516_ROK"
+    },
+    {
+        "id": "7261ca9fb44144c3ac7b047ef5528321",
+        "name": "Glazura za kolače, tamna čokolada",
+        "code": "101541100_ROK"
+    },
+    {
+        "id": "fc938124ebc2437bb4ba137ecbb9abe7",
+        "name": "Grubo mljeveni badem",
+        "code": "101565100_ROK"
+    },
+    {
+        "id": "16081c6518aa4bdeb2d81f823e30946f",
+        "name": "Lješnjak krokant",
+        "code": "101566200_ROK"
+    },
+    {
+        "id": "e3f6f18607d54bcdb3f699c5ef4b12a7",
+        "name": "Vanilija umak bez kuhanja",
+        "code": "101602200_ROK"
+    },
+    {
+        "id": "fbcaa2fee374441ea6db27c1ea9948b2",
+        "name": "Hrskavi muesli s medom 600g",
+        "code": "101663300_ROK"
+    },
+    {
+        "id": "ed02cbb0aaa94a7cb2a0955646d09f64",
+        "name": "Professional Želatina u listićima",
+        "code": "139201805_ROK"
+    },
+    {
+        "id": "1016f192e01f4f05a744f28848e2e6e3",
+        "name": "Puding čokolada",
+        "code": "170001235_ROK"
+    },
+    {
+        "id": "f679dd0a52a4417994ceb44339e1ecc3",
+        "name": " Preljev - svijetli x3 ",
+        "code": "170001655_ROK"
+    },
+    {
+        "id": "904886a5b11245daa074b0a2347795f6",
+        "name": "Muffins",
+        "code": "170003780_ROK"
+    },
+    {
+        "id": "7bd75d1695e1406495fd41a1dc25fb84",
+        "name": "Preljev za torte jagoda",
+        "code": "170004878_ROK"
+    },
+    {
+        "id": "eb8c3ba8f2e444409a342b4cf0bbb6fd",
+        "name": "Desertni preljev Čokolada",
+        "code": "170005098_ROK"
+    },
+    {
+        "id": "29ff4d8af789463ea0bf852be1ac9422",
+        "name": "Dekor zlatne perle soft",
+        "code": "170005523_ROK"
+    },
+    {
+        "id": "c1ede33d96054984ba95994a7922e40b",
+        "name": "Vitalis Crunchy Plus Med Badem",
+        "code": "170006434_ROK"
+    },
+    {
+        "id": "90845dd2ee05440a91cc348f4cfc8ac9",
+        "name": "Rum šećer x3",
+        "code": "170006858_ROK"
+    },
+    {
+        "id": "21c0ca1aed4549dbb74590a00e8b05ef",
+        "name": "Citronka special za bazgin sirup",
+        "code": "170025284_ROK"
+    },
+    {
+        "id": "81c01193686a4684ba0295efa303123e",
+        "name": "Soda bikarbona limun",
+        "code": "170016613_ROK"
     }
 ];

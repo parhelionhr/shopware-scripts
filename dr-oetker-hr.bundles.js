@@ -297,8 +297,8 @@ var bundles = {
             "quantity": 1
         },
         {
-            "id": "6043879c47af4c27802e8acefe7f53ee",
-            "code": "170006064",
+            "id": "a6ca1144e91749c2bda707574a640f61",
+            "code": "170006064_ROK",
             "name": "Special Puding za mađaricu ",
             "quantity": 1
         }
@@ -1065,26 +1065,6 @@ var bundles = {
             "quantity": 1
         }
     ],
-    "170000540": [
-        {
-            "id": "fa74af0c16d742209ecaecf130382b4b",
-            "code": "170000533",
-            "name": "Retro roza kuhinjska rukavica ",
-            "quantity": 1
-        },
-        {
-            "id": "d2a3e2b974bd41008b92d12a8f35211f",
-            "code": "170005396",
-            "name": "Mini Muffins",
-            "quantity": 1
-        },
-        {
-            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
-            "code": "101526000",
-            "name": "Svjećice Happy Birthday",
-            "quantity": 1
-        }
-    ],
     "170000697": [
         {
             "id": "754c6a8ee2514f69840c4291de155384",
@@ -1167,6 +1147,12 @@ var bundles = {
             "code": "170000534",
             "name": "Zlatni marker za staklenke",
             "quantity": 1
+        },
+        {
+            "id": "2345d53541c740d5b55ceafe1347895a",
+            "code": "170000699_recept",
+            "name": "Set domaći džem -recept",
+            "quantity": 1
         }
     ],
     "170000700": [
@@ -1204,6 +1190,26 @@ var bundles = {
             "id": "92b73a625ff44897883ac85e91f3ecf6",
             "code": "170000695",
             "name": "Marker za staklenke, bijeli ",
+            "quantity": 1
+        }
+    ],
+    "170000540": [
+        {
+            "id": "fa74af0c16d742209ecaecf130382b4b",
+            "code": "170000533",
+            "name": "Retro roza kuhinjska rukavica ",
+            "quantity": 1
+        },
+        {
+            "id": "d2a3e2b974bd41008b92d12a8f35211f",
+            "code": "170005396",
+            "name": "Mini Muffins",
+            "quantity": 1
+        },
+        {
+            "id": "b761a4a4f70545f0b2868a2d4a5e6c40",
+            "code": "101526000",
+            "name": "Svjećice Happy Birthday",
             "quantity": 1
         }
     ]
