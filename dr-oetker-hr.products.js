@@ -2595,6 +2595,11 @@ var products = [
         "code": "170006434_ROK"
     },
     {
+        "id": "9dbf502d226b48d2a118a8f903150ddc",
+        "name": "High Protein Riža na mlijeku",
+        "code": "101782000"
+    },
+    {
         "id": "90845dd2ee05440a91cc348f4cfc8ac9",
         "name": "Rum šećer x3",
         "code": "170006858_ROK"
@@ -2608,5 +2613,10 @@ var products = [
         "id": "81c01193686a4684ba0295efa303123e",
         "name": "Soda bikarbona limun",
         "code": "170016613_ROK"
+    },
+    {
+        "id": "7ab4487643bb43b7a71ab835a97985a1",
+        "name": "High Protein Griz",
+        "code": "101782100"
     }
 ];
