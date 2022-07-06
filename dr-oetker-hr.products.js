@@ -2580,6 +2580,11 @@ var products = [
         "code": "170004878_ROK"
     },
     {
+        "id": "77acc9104cf04d7ba211ed604f086b67",
+        "name": "Vitalis zdjelica - keramička",
+        "code": "170000692"
+    },
+    {
         "id": "eb8c3ba8f2e444409a342b4cf0bbb6fd",
         "name": "Desertni preljev Čokolada",
         "code": "170005098_ROK"
@@ -2618,5 +2623,40 @@ var products = [
         "id": "7ab4487643bb43b7a71ab835a97985a1",
         "name": "High Protein Griz",
         "code": "101782100"
+    },
+    {
+        "id": "70ff3c5ee34c46e284062048c7139a35",
+        "name": "High Protein Vitalis set",
+        "code": "170000701"
+    },
+    {
+        "id": "fca20d7daadb44068e75a7ef97abab9f",
+        "name": "High Protein pudinzi probni set",
+        "code": "170000702"
+    },
+    {
+        "id": "d9aa97beea264c00b4f89c4f7230ab18",
+        "name": "High Protein Slatki obroci probni set",
+        "code": "170000703"
+    },
+    {
+        "id": "67dca4eeaa7a46dc84341973ed6a2815",
+        "name": "Vitalis 7 žitarica set + Vitalis doza",
+        "code": "170000704"
+    },
+    {
+        "id": "5698c56d2d2e451e951eff1f1595e2be",
+        "name": "Vitalis Čokoladni set",
+        "code": "170000705"
+    },
+    {
+        "id": "9abb415872ad456e9c3e2cdce138ac93",
+        "name": "Vitalis Manje slatki + Gratis Vitalis zdjelica",
+        "code": "170000706"
+    },
+    {
+        "id": "bc01a0c8dbb04c51b6555f47bbeb7e0b",
+        "name": "SuperMusli 30% protein 2+1 gratis",
+        "code": "170000707"
     }
 ];

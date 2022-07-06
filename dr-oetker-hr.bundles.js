@@ -1212,5 +1212,113 @@ var bundles = {
             "name": "Svjećice Happy Birthday",
             "quantity": 1
         }
+    ],
+    "170000702": [
+        {
+            "id": "73f2c36777e44a07945835284aec6ad8",
+            "code": "101443000",
+            "name": "High Protein Puding Vanilija",
+            "quantity": 1
+        },
+        {
+            "id": "dfa3c9b846fd49c58dc64658684c2af8",
+            "code": "101443100",
+            "name": "High Protein Puding Čokolada",
+            "quantity": 1
+        },
+        {
+            "id": "f87d522cf07049aea5a0bdb93341d2c9",
+            "code": "101443200",
+            "name": "High Protein Puding Griz",
+            "quantity": 1
+        }
+    ],
+    "170000703": [
+        {
+            "id": "7ab4487643bb43b7a71ab835a97985a1",
+            "code": "101782100",
+            "name": "High Protein Griz",
+            "quantity": 1
+        },
+        {
+            "id": "9dbf502d226b48d2a118a8f903150ddc",
+            "code": "101782000",
+            "name": "High Protein Riža na mlijeku",
+            "quantity": 1
+        }
+    ],
+    "170000704": [
+        {
+            "id": "82fbd85ac0b3495db0ef51d450350f50",
+            "code": "170001410",
+            "name": "Vitalis 7 žitarica voćni muesli",
+            "quantity": 1
+        },
+        {
+            "id": "f6114425e0274781bb3b80e08d77803f",
+            "code": "170001408",
+            "name": " Vitalis 7 žitarica orašasto i šumsko voće muesli",
+            "quantity": 1
+        },
+        {
+            "id": "67d0adc292f74c119507afc6bc42fd00",
+            "code": "170000545",
+            "name": "Vitalis limena doza",
+            "quantity": 1
+        }
+    ],
+    "170000705": [
+        {
+            "id": "74cb833aa52f4201bb7ef010cc877d24",
+            "code": "170006426",
+            "name": "Vitalis Muesli tamna čokolada",
+            "quantity": 1
+        },
+        {
+            "id": "c385b8a935dd42d78266d6ab32c9e6c9",
+            "code": "170006431",
+            "name": "Vitalis Crunchy Plus Dupla Čokolada",
+            "quantity": 1
+        },
+        {
+            "id": "1454e1bf52c042cdafba3fa8bfdb35c5",
+            "code": "101663100",
+            "name": "Čokoladni muesli 600 g",
+            "quantity": 1
+        },
+        {
+            "id": "296aba33c3604052823c8be0d184b9af",
+            "code": "170005822",
+            "name": "Vitalis hrskavi jastučići čokolada",
+            "quantity": 1
+        }
+    ],
+    "170000706": [
+        {
+            "id": "67916c33558a42cf86ea51d660fd40e7",
+            "code": "101655900",
+            "name": "Hrskavi čokoladni muesli s manje šećera",
+            "quantity": 1
+        },
+        {
+            "id": "23372c3e6b1c4bb1b5b384cf1cd66ccc",
+            "code": "101662700",
+            "name": "Hrskavi malina muesli s manje šećera",
+            "quantity": 1
+        },
+        {
+            "id": "77acc9104cf04d7ba211ed604f086b67",
+            "code": "170000692",
+            "name": "Vitalis zdjelica - keramička",
+            "quantity": 1
+        }
+    ],
+    "170000707": [
+        {
+            "id": "32783a3493d04303b336417c42cc30b7",
+            "code": "101687000",
+            "name": "Vitalis SuperMuesli 30% protein",
+            "quantity": 3
+        }
     ]
 };
